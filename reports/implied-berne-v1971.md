@@ -16,7 +16,7 @@ Label  | Subject | Name and oficial URL
 *Berne1971* | original Convention text | [Berne Convention for the Protection of Literary and Artistic Works](http://global.oup.com/booksites/content/9780198259466/15550001)
 *WIPO2015*  | automatic protection  | [WIPO Guide on the Licensing of Copyright and Related Rights](http://www.wipo.int/edocs/pubdocs/en/copyright/897/wipo_pub_897.pdf)
 *Wiki1* |licensor rights | [Copyright, Exclusive rights](https://en.wikipedia.org/wiki/Copyright#Exclusive_rights)
-*Wiki2* |licensor rights | [International copyright treaties](https://en.wikipedia.org/wiki/International_copyright_treaties)
+*Wiki2* |other pertinent treaties| [International copyright treaties](https://en.wikipedia.org/wiki/International_copyright_treaties)
 
 Quotations and interpretations of the evidences:
 
