@@ -17,11 +17,17 @@ Label  | Subject | Name and URL
 
 Quotations and interpretations of the evidences:
 
-**1.** ...
+**1.** At Article 6,  "(...)  the author shall have the right to claim authorship of the work and to object to any distortion, mutilation or other modification of, or other derogatory action in relation to, the said work, which would be prejudicial to his honour or reputation..."
 
-...
+Intepretation:  *right to claim authorship*.
 
-Summarizing: 
+**2.** At Article 7.1,  "(...)  The term of protection granted by this Convention shall be the life of the author and fifty years after his death..."
+
+Intepretation:  *50 years of monopoly time*.
+
+**3.** At Article 9.1,  "(...) exclusive right of authorising the reproduction of these works ... ".
+
+Intepretation:  *exclusive right of copy*.
 
 ...
 
