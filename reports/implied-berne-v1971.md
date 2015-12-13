@@ -15,7 +15,7 @@ Label  | Subject | Name and URL
 ---    | ---     | ---
 *Berne1971* | original Convention text | [Berne Convention for the Protection of Literary and Artistic Works](http://global.oup.com/booksites/content/9780198259466/15550001)
 
-Quotations and interpretations of the evidences:
+###Quotations and interpretations of the evidences:
 
 **1.** At Article 6,  "(...)  the author shall have the right to claim authorship of the work and to object to any distortion, mutilation or other modification of, or other derogatory action in relation to, the said work, which would be prejudicial to his honour or reputation..."
 
