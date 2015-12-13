@@ -32,11 +32,9 @@ Summarizing:
 
 Signatory countries of the Berna Convention must adopt  the *implied licence* expressed by Berne1971.
 
-As a general matter, this *implied licence* subsists in “original” works of *licensor* (author or holder of the copyright) as soon as the work (licensed material) is fixed in some tangible medium of expression. In strict sense the year of creation must be verifiably or registered (by ex. [legal deposit](https://en.wikipedia.org/wiki/Legal_deposit)), to count the 50 yerars of monopoly.
+As a general matter, this *implied licence* subsists in “original” works of *licensor* (author or holder of the copyright) as soon as the work (licensed material) is fixed in some tangible medium of expression. In this context, the *licensee* is a copy holder.
 
-In this context, the *licensee* is a copy holder.
-
-Inferred "standard clauses" that build this *implied license* as **licensee obligations**:
+Inferred "standard clauses" that build this *implied license* as licensee obligations:
 
 Label  | Subject | The licensee must to 
 ---    | ---     | ---
@@ -46,9 +44,9 @@ Label  | Subject | The licensee must to
 *ND*   | No Derivatives   | can't do derivative works from the work.
 *SA*   | Share-alike      | when permited, the copies must preserve the same licence, but in a explicit way.
 
-Inferred "standard clauses" that build this *implied license* as **licensor exclusive rights**:
+Inferred "standard clauses" that build this *implied license* as licensor exclusive rights:
 
-Label  | Right description 
+Label  | Licensor exclusive right 
 ---    | ---
 *Copy* | To distribute, producing copies or reproductions of the work, and to sell those copies (including electronic copies).
 *Derivatives*   | To create derivative works (works that adapt the original work)
@@ -56,9 +54,9 @@ Label  | Right description
 *Dispose* |To sell or cede these rights to others.
 *stream*  |To transmit or display by radio, video or digital streaming.
 
-Inferred "standard clauses" that build this *implied license* as **licensee rights**:
+Inferred "standard clauses" that build this *implied license* as licensee rights:
 
-Label  | Subject | Description 
+Label  | Subject | Licensee right
 ---    | ---     | ---
 *Fair* | Fair use | In special conditions, for personal or educational use, not need to ask, and can do a local copy.
 *Wait* | Wait for CC0 | Reclaim the monopoly time-out, 50 years after works's first publishing or author's death.
