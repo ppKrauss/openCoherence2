@@ -1,0 +1,11 @@
+local,doc-type,doc-year,doc-code,isOpen,citation-mechanism,citation-rule,citation-texts,url-html,local-comments
+br,federal:decreto,2009,6949,yes,copy-attach,voluntary,apensos por cópia ao presente Decreto,http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2009-08-25;6949,bom exemplo
+br,federal:decreto,1975,75699,yes,copy-attach,obligation,apensa por cópia ao presente Decreto,http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1975-05-06;75699,bom exemplo
+br,federal:lei,2000,10098,no,cite-class,obligation,normas técnicas de acessibilidade da Associação Brasileira de Normas Técnicas – ABNT,http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2000-12-19;10098,verificar termo-de-ajustamento-de-conduta
+br,federal:lei,2015,13146,no,vague,obligation,normas de acessibilidade,http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2015-07-06;13146,verificar termo-de-ajustamento-de-conduta
+br;distrito.federal,distrital:lei,2006,3919,no,vague,obligation,padrões de acessibilidade estabelecidos (...) nas normas técnicas brasileiras,http://www.lexml.gov.br/urn/urn:lex:br;distrito.federal:distrital:lei:2006-12-19;3919,todavia expressa regras técnicas detalhadas
+br;pernanbuco,estadual:decreto,2003,25343,no,cite-label,obligation,CEP,http://www.legisweb.com.br/legislacao/?id=149173,"no anexo, campo de formulário"
+br;mt,secrearia.fazenda:potaria,2009,182,no,cite-label,obligation,CEP,http://app1.sefaz.mt.gov.br/0325677500623408/E9A3C2B663F122AC04256D5E004CC094/57C3C9C1D1139AB604257650005C5BDE,"no anexo, campo de formulário, Declaração de ITCD"
+br;distrito.federal,csceajur:resolucao,2006,25,no,cite-label,obligation,CEP,http://www.defensoria.df.gov.br/wp-content/antigo/00000184.pdf,"modelo anexo, campo de formulário"
+br,federal:lei,2002,4074,no,cite-label,obligation,CEP,http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2002-01-04;4074,"ANEXO I, campos 4.7, 6.7, 7.7, 8.7; ANEXO III, campos 1.7 e 2.7 no modelos I e II; ANEXO IV, campos 1.7, 2.7 e 3.7; ANEXO V, campos 1.8 e 1.13"
+br;sp;sao.paulo,municipal:decreto,1978,14932,no,cite,obligation,Número do CEP (Código de Endereçamento Postal),http://www.radarmunicipal.com.br/legislacao/decreto-14932,CEP nas placas de denominação de logradouros públicos (antes da federal 6538)

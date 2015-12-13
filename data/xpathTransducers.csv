@@ -1,0 +1,7 @@
+jkey_group,jkey,transducer,xpath_str,dtds,xpath_ns
+1,jou_acronimo,2,"/article/front/journal-meta/journal-id[@journal-id-type=""publisher-id""]/text()","{1,2,3}",""
+1,doi,2,"/article/front/article-meta/article-id[@pub-id-type=""doi""]/text()","{1,2,3}",""
+1,article_type,2,"/article/@article-type","{1,2,3}",""
+1,article_title,7,"/article/front//article-title//text()","{1,2,3}",""
+1,license_url,7,"//permissions/license/@n:href","{1,2,3}","{{n,http://www.w3.org/1999/xlink}}"
+

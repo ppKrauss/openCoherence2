@@ -1,0 +1,9 @@
+label,name,repo-wikidataID,url,repo-wikidataID-rel,url-dft-lincense
+scielo-ar,ScieELO Argentina,Q7433389,http://www.scielo.org.ar,subclass,http://blog.scielo.org/en/2014/08/29/scielo-participates-in-the-global-coalition-supporting-creative-commons-licenses-to-access-journal-articles/
+scielo-bo,ScieELO Bolivia,Q7433389,http://www.scielo.org.bo,subclass,http://blog.scielo.org/en/2014/08/29/scielo-participates-in-the-global-coalition-supporting-creative-commons-licenses-to-access-journal-articles/
+scielo-br,ScieELO Brazil,Q7433389,http://www.scielo.org.br,subclass,http://blog.scielo.org/en/2014/08/29/scielo-participates-in-the-global-coalition-supporting-creative-commons-licenses-to-access-journal-articles/
+scielo-cl,ScieELO Chile,Q7433389,http://www.scielo.org.cl,subclass,http://blog.scielo.org/en/2014/08/29/scielo-participates-in-the-global-coalition-supporting-creative-commons-licenses-to-access-journal-articles/
+scielo-sa,ScieELO South Africa,Q7433389,http://www.scielo.org.za,subclass,http://blog.scielo.org/en/2014/08/29/scielo-participates-in-the-global-coalition-supporting-creative-commons-licenses-to-access-journal-articles/
+pmc,PubMed Central (USA),Q229883,http://www.ncbi.nlm.nih.gov/pmc/,exact,http://www.ncbi.nlm.nih.gov/pmc/about/copyright/
+pmc-ca,PubMed Central Canada,Q229883,http://pubmedcentralcanada.ca/,subclass,
+pmc-eu,Europe PubMed Central,Q229883,http://europepmc.org/,subclass,

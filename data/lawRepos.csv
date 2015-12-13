@@ -1,0 +1,8 @@
+label,name,repo-wikidataID,url,repo-wikidataID-rel,country,legalSys,BerneConv,dft-license,legis-wikidataID,legis-wikidataID-rel,docs-lang
+lex:br,LexML Brazil,Q10317762,http://www.lexml.gov.br/,exact,br,civil law,yes,inferredLicense-BR,,,pt-BR
+lex:eu,"Europe Union, Official documents",Q1276282,http://europa.eu/publications/official-documents/index_en.htm,exact,eu,international,yes,inferredLicense-EU,Q208202,subclass,*
+lex:ge,N-Lex Germany,Q1276282,http://eur-lex.europa.eu/n-lex/legis_de/juris_form_en.htm,subclass,ge,civil law,yes,inferredLicense-GE,,,de
+lex:il,Knesset,Q133396,http://www.knesset.gov.il,subclass,il,mix,yes,inferredLicense-IL,Q1565153,extact,*
+lex:it,N-Lex Italy,Q1276282,http://eur-lex.europa.eu/n-lex/legis_it/normattiva_form_en.htm,subclass,it,civil law,yes,inferredLicense-IT,,,it
+lex:uk,Legislation (UK),,http://www.legislation.gov.uk/,,uk,common law,yes,OGL,Q7888118,exact,en-UK
+lex:us,United States Code ,Q7079379,http://uscode.house.gov/,exact,us,common law,yes,inferredLicense-US,Q692218,exact,en-US

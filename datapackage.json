@@ -1,0 +1,234 @@
+{
+  "name": "openCoherence",
+  "title": "Open Coherence Project, draft1",
+  "sources": [
+    {
+      "name":"Many..."
+    }
+  ],
+  "licenses": [
+	  {
+		  "id": "odc-pddl",
+		  "name": "Public Domain Dedication and License",
+		  "version": "1.0",
+		  "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+	  }
+	],
+  "resources": [
+    {
+      "name": "lawDocs",
+      "path": "data/lawDocs.csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "country",
+            "role": "master",
+            "description":"ISO's 2 letter alpha-2 code",
+            "type": "string"
+          },
+          {
+            "name": "doc-type",
+            "role": "master",
+            "description":"Label for autorithy and document type, as expressed in the document or its URN or its ID",
+            "type": "string"
+          },
+          {
+            "name": "doc-year",
+            "role": "master",
+            "description":"Year of the first official publication (as expressed in the document or URN)",
+            "type": "string"
+          },
+          {
+            "name": "doc-code",
+            "role": "master",
+            "description":"Complements for unique identification, as expressed in the document or its URN or its ID",
+            "type": "string"
+          },
+          {
+            "name": "license",
+            "description":"key (abbrev name) of the explicit or inferred license",
+            "type": "string"
+          },
+          {
+            "name": "licenseMode",
+            "description":"mode of license expression in the document, implicit or explicit",
+            "type": "string"
+          },
+          {
+            "name": "url-html",
+            "description":"URL of the official HTML version of the document",
+            "type": "string"
+          },
+          {
+            "name": "url-pdf",
+            "description":"URL of the official PDF version of the document",
+            "type": "string"
+          }
+	]
+      }
+    },
+    {
+      "name": "XPath Transducers",
+      "path": "data/xpathTransducers.csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "jkey_group",
+            "role": "master",
+            "description":"labeling the group by a number",
+            "type": "integer"
+          },																			
+          {
+            "name": "jkey",
+            "role": "master",
+            "description":"Key of the JSON key-value",
+            "type": "string"
+          },
+          {
+            "name": "transducer",
+            "role": "master",
+            "description":"ID of the transducer type, see SQL lib.xpath_to_char()",
+            "type": "integer"
+          },
+          {
+            "name": "xpath_str",
+            "role": "master",
+            "description":"a XPath expression",
+            "type": "string"
+          },
+          {
+            "name": "dtds",
+            "role": "master",
+            "description":"list of DTD-IDs, for sql array export",
+            "type": "string"
+          },
+          {
+            "name": "xpath_ns",
+            "role": "master",
+            "description":"XPath namespace or 'NULL'",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "sciRepos",
+      "path": "data/sciRepos.csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "label",
+            "role": "master",
+            "description":"Standard internal label",
+            "type": "string"
+          },																			
+          {
+            "name": "name",
+            "role": "master",
+            "description":"Name or short-title of the repository",
+            "type": "string"
+          },
+          {
+            "name": "repo-wikidataID",
+            "role": "master",
+            "description":"ID in Wikidata.org of the country's official digital repository of law-documents",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "role": "master",
+            "description":"Main URL of the repository",
+            "type": "string"
+          },
+          {
+            "name": "repo-wikidataID-rel",
+            "description":"semantic relation to repo-wikidataID, exact, relat or subclass",
+            "type": "string"
+          },
+          {
+            "name": "url-dft-lincense",
+            "description":"URL of the default license",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lawRepos",
+      "path": "data/lawRepos.csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "label",
+            "role": "master",
+            "description":"Standard internal label",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "role": "master",
+            "description":"Name or short-title of the repository",
+            "type": "string"
+          },
+          {
+            "name": "repo-wikidataID",
+            "role": "master",
+            "description":"ID in Wikidata.org of the country's official digital repository of law-documents",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "role": "master",
+            "description":"Main URL of the repository",
+            "type": "string"
+          },
+          {
+            "name": "repo-wikidataID-rel",
+            "description":"semantic relation to repo-wikidataID, exact, relat or subclass",
+            "type": "string"
+          },
+          {
+            "name": "country",
+            "description":"ISO's 2 letter alpha-2 code",
+            "type": "string"
+          },
+          {
+            "name": "legalSys",
+            "description":"legal system of the country, civil law, common law, etc.",
+            "type": "string"
+          },
+          {
+            "name": "BerneConv",
+            "description":"(perhaps redundant information) yes when country is a signatary of Berne Convention",
+            "type": "string"
+          },
+          {
+            "name": "dft-license",
+            "description":"fk (by abbrev name) of the default license (explicit or inferred)",
+            "type": "string"
+          },
+          {
+            "name": "legis-wikidataID",
+            "description":"ID in Wikidata.org of the country's legislation description",
+            "type": "string"
+          },
+          {
+            "name": "legis-wikidataID-rel",
+            "description":"semantic relation to legis-wikidataID, exact, relat or subclass",
+            "type": "string"
+          },
+          {
+            "name": "docs-lang",
+            "description":"Main language of the repository's docs, by IETF-language-tag",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
+

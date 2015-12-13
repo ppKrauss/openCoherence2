@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="EN">
+  <front>
+    <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><!--===== Grouping journal title elements =====--><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+    <article-meta><article-id pub-id-type="publisher-id">PONE-D-12-01684</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0039138</article-id><article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Agriculture</subject>
+          <subj-group>
+            <subject>Animal management</subject>
+            <subj-group>
+              <subject>Animal behavior</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Ecology</subject>
+            <subj-group>
+              <subject>Community ecology</subject>
+              <subj-group>
+                <subject>Species interactions</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Ecological metrics</subject>
+              <subj-group>
+                <subject>Species diversity</subject>
+                <subject>Species richness</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Biodiversity</subject>
+              <subject>Conservation science</subject>
+              <subject>Environmental protection</subject>
+              <subject>Freshwater ecology</subject>
+              <subject>Species extinction</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Population biology</subject>
+            <subj-group>
+              <subject>Population dynamics</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Zoology</subject>
+            <subj-group>
+              <subject>Ichthyology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Ecology</subject>
+        </subj-group>
+      </article-categories><title-group><article-title><italic>Plagioscion squamosissimus</italic> (Sciaenidae) and <italic>Parachromis managuensis</italic> (Cichlidae): A Threat to Native Fishes of the Doce River in Minas Gerais, Brazil</article-title><alt-title alt-title-type="running-head">Two Threat to Native Fishes of the Doce River</alt-title></title-group><contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Barros</surname>
+            <given-names>Lucas C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Santos</surname>
+            <given-names>Udson</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Zanuncio</surname>
+            <given-names>José C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Dergam</surname>
+            <given-names>Jorge A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group><aff id="aff1"><label>1</label><addr-line>Departamento de Biologia Animal, Universidade Federal de Viçosa, Viçosa, Minas Gerais State, Brazil</addr-line>       </aff><aff id="aff2"><label>2</label><addr-line>Departamento de Biodiversidade, Evolução e Meio Ambiente, Universidade Federal de Ouro Preto, Ouro Preto, Minas Gerais State, Brazil</addr-line>       </aff><contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Steinke</surname>
+            <given-names>Dirk</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group><aff id="edit1">Biodiversity Insitute of Ontario – University of Guelph, Canada</aff><author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">udsonsan@gmail.com</email></corresp>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: LB US JD. Performed the experiments: US JD. Analyzed the data: LB US JZ JD. Contributed reagents/materials/analysis tools: LB US JD. Wrote the paper: LB US JZ JD.</p>
+        </fn>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn></author-notes><pub-date pub-type="collection">
+        <year>2012</year>
+      </pub-date><pub-date pub-type="epub">
+        <day>13</day>
+        <month>6</month>
+        <year>2012</year>
+      </pub-date><volume>7</volume><issue>6</issue><elocation-id>e39138</elocation-id><history>
+        <date date-type="received">
+          <day>13</day>
+          <month>1</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>5</month>
+          <year>2012</year>
+        </date>
+      </history><!--===== Grouping copyright info into permissions =====-->
+
+<permissions>
+
+<copyright-year>2012</copyright-year><copyright-holder>Barros et al</copyright-holder>
+
+<license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+</license>
+</permissions>
+
+<abstract>
+        <p>The middle section of the lake basin of the Doce River in Minas Gerais State, Brazil is plagued by grave environmental problems, including the introduction of non-native fish, which reduces the biodiversity of this region. This study reports the presence of two newly-detected non-native species in the Doce River Basin. Sampling efforts included gill nets with mesh size of 3 to 12 mm (measured diagonally) and trawling nets, both of which were used in independent field campaigns in 2002 and 2011. The two new invasive Perciform fishes, <italic>Plagioscion squamosissimus</italic> (Heckel 1840) and <italic>Parachromis managuensis</italic> (Günther 1867) were collected in Caratinga and Rio Doce municipalities. These records and other reports on non-native fishes suggest favorable environmental conditions for the establishment of invasive species in this drainage. These invasive species have behavior and diet observed in other wide distribution exotic fish of Rio Doce Basin representing a threat to the 77 native fishes of this region, 37 of which are endangered.</p>
+      </abstract><funding-group><funding-statement>This work (PONE-D-12-01684R1) was supported by the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (REUNI/CAPES) and Fundação de Amparo a Pesquisa do Estado de Minas Gerais (FAPEMIG). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group>
+
+<counts>
+        <page-count count="5"/>
+      </counts></article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Species introduction in aquatic ecosystems has been documented worldwide <xref ref-type="bibr" rid="pone.0039138-Myers1">[1]</xref>, with biological invasions threatening native biodiversity and ecosystem function <xref ref-type="bibr" rid="pone.0039138-Mack1">[2]</xref>. Non-native species have direct and indirect effects on the structure and functioning of aquatic and terrestrial ecosystems and may cause economic problems, sometimes affecting food supply and human health. Biological invasions also cause more subtle environmental problems such as the introduction of infectious agents and pollution by sex pheromones <xref ref-type="bibr" rid="pone.0039138-Gozlan1">[3]</xref>; therefore controlling non-native species may be very expensive <xref ref-type="bibr" rid="pone.0039138-Hall1">[4]</xref> or almost impossible.</p>
+      <p>Invasions by alien species have increased in recent decades due to trade and tourism between countries and continents. Preventing introductions is the most efficient and economic strategy to address this problem <xref ref-type="bibr" rid="pone.0039138-Ziller1">[5]</xref>. However, modern transport systems and advances in aquaculture increase the dispersal of animals and plants over biogeographical barriers that would normally hinder them <xref ref-type="bibr" rid="pone.0039138-Paiva1">[6]</xref>. A low percentage of highly tolerant species become invasive in populations dispersed over large areas <xref ref-type="bibr" rid="pone.0039138-DeKlemm1">[7]</xref>, <xref ref-type="bibr" rid="pone.0039138-Wolter1">[8]</xref> and little is known about their actual impact on native fauna <xref ref-type="bibr" rid="pone.0039138-Ribeiro1">[9]</xref>.</p>
+      <p>The establishment of non-native species is the third major cause of extinction in fishes throughout the world <xref ref-type="bibr" rid="pone.0039138-Clavero1">[10]</xref>, after habitat fragmentation <xref ref-type="bibr" rid="pone.0039138-Clout1">[11]</xref> and habitat alteration <xref ref-type="bibr" rid="pone.0039138-Groom1">[12]</xref>. The Red List of Threatened Species in South America reports that non-native species had negative effects on 29% of continental fishes and 30% of amphibian species <xref ref-type="bibr" rid="pone.0039138-Rodrguez1">[13]</xref>. The largest river basins in the world and the greatest number of fish species of the Neotropical region are located in Brazil <xref ref-type="bibr" rid="pone.0039138-MontoyaBurgos1">[14]</xref> and are threatened by introductions of exotic fish species <xref ref-type="bibr" rid="pone.0039138-Vitule1">[15]</xref>.</p>
+      <p>The Doce River watershed drains 12% of the territory of Minas Gerais State, Brazil. It contains approximately 150 lakes formed by glacial and interglacial events, and these lakes harbor one-third of the ichthyofauna of this basin <xref ref-type="bibr" rid="pone.0039138-Godinho1">[16]</xref>. The great biological diversity and geological peculiarities make this lake system very important in conserving the Atlantic Forest Biome <xref ref-type="bibr" rid="pone.0039138-MMASBF1">[17]</xref>. Among the 77 fish species recorded in the Doce River watershed, 37 are of restricted distribution and are thus a priori threatened with extinction <xref ref-type="bibr" rid="pone.0039138-Drummond1">[18]</xref> due to anthropogenic changes <xref ref-type="bibr" rid="pone.0039138-Latini1">[19]</xref> and introduction of exotic fishes <xref ref-type="bibr" rid="pone.0039138-Dergam1">[20]</xref>, <xref ref-type="bibr" rid="pone.0039138-Lima1">[21]</xref>, the latter being the main factor leading to extinction of native fishes.</p>
+      <p>This paper reports the occurrence of two new non-native fish species in the upper and middle Doce River in Minas Gerais State, Brazil, which were collected in separate field work activities as part of a long-term monitoring program designed to detect fish introductions in the region.</p>
+    </sec>
+    <sec id="s2" sec-type="methods">
+      <title>Methods</title>
+      <p>Field campaigns were conducted in 2002 and 2011 in Silvana Lake in the municipalities of Caratinga and Rio Doce in southeast Minas Gerais State, Brazil, in an area that was originally part of the Atlantic Forest Biome (<xref ref-type="fig" rid="pone-0039138-g001">Fig. 1</xref>). Sampling efforts in Silvana Lake were part of the species monitoring program funded by Empresa de Celulose Nipo Brasileira (CENIBRA). In the upper Rio Doce, the activities were included in the ichthyofauna monitoring program in the Risoleta Neves hydroelectric reservoir. Samples were collected using trawling nets (mesh size of 5 mm measured diagonally), and gill nets in the municipality of Caratinga (19°29′34.81″ S, 42°25′28.40 W″) in December 2002 and in the municipality of Rio Doce (20°14′45.14″ S, 42°53′43.58″ W) in June and December 2011. Sampling was performed with mesh nets set at dusk (5:00 p.m.) and retrieved at dawn (6 a.m.). Each set of gill nets (mesh sizes of 3, 4, 5, 7, 8, 10 and 12 mm) were placed at sampling points 1500 meters apart. The distance among gill nets in the same area was 10 meters. Two points were sampled at Silvana Lake and five at the Risoleta Neves hydroelectric reservoir. In each lake, three points1,500 meters apart and amenable to the use of trawl net were sampled with three passages. The hauls were performed between 3:00 and 5:00 p.m.. Animals collected were fixed in 10% formalin, stored in 70% alcohol, and deposited in the collection of the John Moojen Museum of Zoology of the Federal University of Viçosa (MZUFV). Species captured were anaesthetized using clove oil, identified using standard protocols and identification keys of species. Collecting permit SISBIO14975-1 was issued to Prof. Jorge Dergam by the National Institute Chico Mendes of Biodiversity (ICMBio), an authorization valid for collection of all fish taxa occurring in Brazil.</p>
+      <fig id="pone-0039138-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0039138.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Collection sites in Doce River Basin for <italic>Plagioscion squamosissimus</italic> (triangle) and <italic>Parachromis managuensis</italic> (square).</title>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0039138.g001" xlink:type="simple"/>
+      </fig>
+      <fig id="pone-0039138-g002" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0039138.g002</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title><italic>Plagioscion squamosissimus</italic>, endemic to the Amazonian Basin, collected in Lake Silvana, Municipality of Caratinga, Minas Gerais State, Brazil.</title>
+          <p>Figure modified from Froese and Pauly <xref ref-type="bibr" rid="pone.0039138-Froese1">[37]</xref>.</p>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0039138.g002" xlink:type="simple"/>
+      </fig>
+      <fig id="pone-0039138-g003" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0039138.g003</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title><italic>Parachromis managuensis</italic>, endemic to Central America, collected in the Doce River, Municipality of Rio Doce, Minas Gerais State, Brazil.</title>
+          <p>Figure modified from Froese and Pauly <xref ref-type="bibr" rid="pone.0039138-Froese1">[37]</xref>.</p>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0039138.g003" xlink:type="simple"/>
+      </fig>
+      <table-wrap id="pone-0039138-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0039138.t001</object-id><label>Table 1</label><caption>
+          <title>Non-native fish species have been captured in the middle Doce River Basin, Minas Gerais, Brazil.</title>
+        </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0039138-t001-1" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0039138.t001" xlink:type="simple"/><table>
+          <colgroup span="1">
+            <col align="left" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Species</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="5" rowspan="1">Collectors</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">Godinho et al (1994)</td>
+              <td align="left" colspan="1" rowspan="1">Latini et al (2004)</td>
+              <td align="left" colspan="1" rowspan="1">Vieira (2006)</td>
+              <td align="left" colspan="1" rowspan="1">Alves et al (2007)</td>
+              <td align="left" colspan="1" rowspan="1">Pinto-Coelho (2008)</td>
+              <td align="left" colspan="1" rowspan="1">This study</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Plagioscion squamosissimus</italic>(Heckel, 1840)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Parachromis managuensis</italic>(Günther, 1867)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Cichla monoculus</italic>Spix &amp; Agassiz, 1831</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Cicha ocellatus</italic>Bloch &amp; Schneiderm 1801</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Pygocentrus nattereri</italic>Kner, 1858</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Astronotus ocellatus</italic>(Agassiz, 1831)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Clarias gariepinus</italic>(Burchell, 1882)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Oreochromis niloticus</italic>(Linnaeus, 1758)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Hoplosternum littorale</italic>(Hancock, 1828)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Colossoma macropomum</italic>(Cuvier, 1818)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Leporinus macrocephalus</italic>Garavello &amp; Britski, 1998</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Piaractus mesopotamicus</italic>(Holmberg, 1887)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Salminus brasiliensis</italic>(Cuvier, 1816)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Prochilodus costatus</italic>(Cuvier &amp; Valenciennes, 1849)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Prochilodus argenteus</italic>Agassiz, 1829</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Poecilia reticulata</italic>Peters, 1859</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Tilapia rendalli</italic>(Boulenger, 1897)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Pogonopoma wertheimeri</italic>(Steindachner, 1867)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Lophiosilurus alexandri</italic>(Steindachner 1876)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Pimelodus maculatus</italic>(Lacepède, 1803)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Aristichthys nobilis</italic>(Richardson, 1845)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Pseudoplatystoma</italic> sp.</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Pseudoplatystoma</italic> hibrid<xref ref-type="table-fn" rid="nt101">1</xref></td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Tambacu</italic> hibrid<xref ref-type="table-fn" rid="nt102">2</xref></td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Xiphophorus hellerii</italic>Heckel, 1848</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Ctenopharyngodor idella</italic>(Valenciennes, 1844)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Cyprinus carpio</italic>Linnaeus, 1758</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Hoplias intermedius</italic>Oyakawa &amp; Mattox, 2009</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Hyphessobrycon eques</italic>(Steindachner, 1882)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Hypophthalmichthys molitrix</italic>(Valenciennes, 1844)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Ictalurus punctatus</italic>(Rafinesque, 1818)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Lepomis gibbosus</italic>(Linnaeus, 1758)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Metynnis maculatus</italic>Kner, 1858</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Micropterus salmoides</italic>(Lacepède, 1802)</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"><italic>Piaractus mesopotamicus</italic>Holmberg, 1887</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">X</td>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+          </tbody>
+        </table></alternatives><table-wrap-foot>
+          <fn id="nt101">
+            <label>1</label>
+            <p>Hybrid of <italic>Pseudoplatystoma corruscans</italic> (Spix &amp; Agassiz, 1829) with <italic>Pseudoplatystoma fasciatum</italic> (Linnaeus, 1766).</p>
+          </fn>
+          <fn id="nt102">
+            <label>2</label>
+            <p>Hybrid of <italic>Colossoma macropomum</italic> with <italic>Piaractus mesopotamicus</italic>.</p>
+          </fn>
+        </table-wrap-foot></table-wrap>
+    </sec>
+    <sec id="s3">
+      <title>Results</title>
+      <p>Two new non-native Perciform species were recorded for the middle Doce River Valley in Minas Gerais, Brazil. Two specimens of <italic>Plagioscion squamosissimus</italic> (Heckel, 1840), with 20 and 15 cm in length (MZUFV3268) (<xref ref-type="fig" rid="pone-0039138-g002">Fig. 2</xref>), were collected in 2002 at Lake Silvana in the municipality of Caratinga. Two specimens of <italic>Parachromis managuensis</italic>, 13 and 10 cm in length (Günther, 1867) (MZUFV3945) (<xref ref-type="fig" rid="pone-0039138-g003">Fig. 3</xref>), were found in July and December of 2011 at the upper Doce River in Rio Doce municipality. Other exotic species fish already recorded in the Doce River watershed were also sampled: <italic>Cichla monoculus</italic> Spix &amp; Agassiz, 1831 and <italic>Oreochromis niloticus</italic> (Linnaeus, 1758) were collected in Silvana Lake. In the Risoleta Neves hydroelectric reservoir, <italic>Oreochromis niloticus</italic>, <italic>Poecilia reticulata</italic> Peters, 1859 and <italic>Hoplosternun litoralle</italic> (Hancock, 1828) were captured in two field studies.</p>
+    </sec>
+    <sec id="s4">
+      <title>Discussion</title>
+      <p><italic>Plagioscion squamosissimus</italic> is native to the Amazonian region <xref ref-type="bibr" rid="pone.0039138-Reis1">[22]</xref>, and <italic>P. managuensis</italic> is native to Central America <xref ref-type="bibr" rid="pone.0039138-Conkel1">[23]</xref>. The piscivorous <italic>Plagioscion</italic> is considered to be a valuable resource for human consumption and recreational fishing <xref ref-type="bibr" rid="pone.0039138-Reis1">[22]</xref>. <italic>Parachromis managuensis</italic> is also piscivorous and indigenous to Honduras and Costa Rica, where it reaches a maximum length of 65 cm <xref ref-type="bibr" rid="pone.0039138-Conkel1">[23]</xref>. The first individual of <italic>P. managuensis</italic> was captured in Brazil in the middle São Francisco River Basin <xref ref-type="bibr" rid="pone.0039138-Barbosa1">[24]</xref>. It is noteworthy that the presence of <italic>P. managuensis</italic> in the Doce River Basin was associated with eutrophic conditions, which are suitable for the ecological success of this invasive species. Considering the great commercial and sport appeal of <italic>P. squamosissimus</italic>, its introduction in the Doce River was most likely due to aquaculture activities. Fingerlings of this species are currently commercially available, as are fingerlings of <italic>Cichla temensis</italic> Humboldt, 1821 and <italic>Oreochromis</italic> spp. <xref ref-type="bibr" rid="pone.0039138-Barbosa1">[24]</xref>.</p>
+      <p>The presence of 35 exotic species in the upper and middle section of the Doce River Basin <xref ref-type="bibr" rid="pone.0039138-Latini1">[19]</xref>, <xref ref-type="bibr" rid="pone.0039138-Godinho2">[25]</xref>–<xref ref-type="bibr" rid="pone.0039138-PintoCoelho1">[27]</xref> (<xref ref-type="table" rid="pone-0039138-t001">Table 1</xref>), like <italic>Cichla monoculus</italic>, <italic>Oreochromis niloticus</italic>, <italic>Poecilia reticulata</italic> and <italic>Hoplosternun litoralle</italic> suggests this basin has favorable environmental conditions for successful fish invasions. This basin is also characterized by a high proportion of species with restricted distribution (48%), a factor that seems to favor the establishment of exotics. The same pattern applies to the Mediterranean basins <xref ref-type="bibr" rid="pone.0039138-Gozlan1">[3]</xref>. In the middle Doce River Basin, the introduction of non-native species has been followed by a steep decline in native fish communities <xref ref-type="bibr" rid="pone.0039138-Rosa1">[28]</xref>. Surveys conducted in the local communities of the middle Doce River show that 84% of responses indicate an increase in the number of non-native species and 82% perceive a decline in the native species <italic>Astyanax</italic> spp., <italic>Leporinus steindachneri</italic> Eigenmann, 1907 and of the characin predatory <italic>Hoplias malabaricus</italic> (Bloch, 1794) <xref ref-type="bibr" rid="pone.0039138-Lima1">[21]</xref>. <italic>Plagioscion squamosissimus</italic> has no close phylogenetic relationships with native predatory sciaenid fishes of this region, which may favor its success. The ecology of the native sciaenid, <italic>Pachyurus adspersus</italic> Steindachner, 1879 is unknown, but it is usually caught with earthworms as bait, suggesting that this species is a bottom feeder. Likewise, <italic>P.managuensis</italic> has no equivalent native cichlid piscivorous species in the Doce River Basin. Alien species phylogenetically close to native ones can be controlled by natural enemies, which reduces the success of their establishment <xref ref-type="bibr" rid="pone.0039138-Keane1">[29]</xref>. However, the lack of competitive and anti-predation strategies of native species against exotics favors the establishment of the latter <xref ref-type="bibr" rid="pone.0039138-Duncan1">[30]</xref>.</p>
+      <p>The first exotic fish species reported for the Doce River Basin were the piscivorous <italic>Pygocentrus nattereri</italic> Kner, 1858 and <italic>Cichla monoculus</italic>, introduced in the 1960s in the Jacaré and Barra lakes, respectively <xref ref-type="bibr" rid="pone.0039138-Godinho2">[25]</xref>. In the following years, these species dispersed to most of the middle Doce River lakes through channels connecting the lakes and intentional releases by locals. The trend of temporal reduction of species richness in lakes with exotic fishes is documented in studies from the 1990s. The decrease in species richness between 1983 and 1992 was observed in Jacaré, Carioca and Dom Helvécio lakes and attributed to the introduction of <italic>P. nattereri</italic> and <italic>C. monoculus</italic>. In 1992 the decline of small-sized species and native species' juveniles was correlated to the increase in exotic biomass, unlike the conditions seen in Ferrugem, Timboré and Palmeiras lakes, which lack alien fishes <xref ref-type="bibr" rid="pone.0039138-Godinho2">[25]</xref>. In 2000, studies in Bonita, Gambá and Águas Claras lakes (with non-native fishes) showed lower fish species richness than Gambazinho, Azul and Lagoinha lakes (without non-native fishes). High levels of capture of non-native predator species in aquatic macrophytes, the natural shelter of native species, were also observed in lakes with alien fishes indicating that <italic>P. nattereri</italic>, <italic>C. monoculus</italic> and <italic>Astronotus ocellatus</italic> (Agassiz, 1831) also compete with native fishes for shelter <xref ref-type="bibr" rid="pone.0039138-Latini1">[19]</xref>. Changes in lower trophic cascade due to the introduction of non-native piscivorous fishes were observed in the Doce River Basin. The reduction in species richness of zooplankton over 25 years (1980–2005) occurred in the Carioca and Dom Helvécio lakes. In Carioca Lake, all species of cladocerans disappeared from the limnetic zone. In Dom Helvécio Lake several species of calanoids are no longer found <xref ref-type="bibr" rid="pone.0039138-PintoCoelho1">[27]</xref>. In these lakes the introduction of <italic>P. nattereri</italic> and <italic>C. monoculus</italic> apparently increased the abundance of invertebrate predators such as <italic>Chaoborus</italic>. These organisms replaced the planktivorous fish in the trophic cascade as a result of an “ecological release”, allowing major energy flow in aquatic ecosystems with exotic fish introduction <xref ref-type="bibr" rid="pone.0039138-PintoCoelho1">[27]</xref>.</p>
+      <p><italic>Plagioscion squamosissimus</italic> study feeding in Tibagi River, Paranapanema Basin, Paraná State, Brazil showed a carnivorous diet with preference for fish but also including shrimp, Odonata and Ephemeroptera in areas with low fish density. <italic>Plagioscion squamosissimus</italic> was first recorded in the Paranapanema River Basin in 1992. In 2006, this species showed high abundance and distribution in this basin <xref ref-type="bibr" rid="pone.0039138-Bennemann1">[31]</xref>. Larvae-feeding studies of <italic>P. squamosissimus</italic> in the Itaipu hydroelectric reservoir (Brazil-Paraguay) showed high rates of predation of prey with sizes greater than those observed in native species <xref ref-type="bibr" rid="pone.0039138-Makraks1">[32]</xref>. <italic>Parachromis managuensis</italic> is a highly aggressive piscivore and an alien species for the São Francisco Basin <xref ref-type="bibr" rid="pone.0039138-Barbosa1">[24]</xref>. This feeding behavior also characterizes <italic>C. monoculus</italic> and <italic>P. Nattereri</italic>, indicating that these two new species are real threats to the fish fauna of the Doce River Basin.</p>
+      <p>The presence of alien species is reducing the abundance of native species in the middle Doce River <xref ref-type="bibr" rid="pone.0039138-Latini1">[19]</xref>, <xref ref-type="bibr" rid="pone.0039138-Dergam1">[20]</xref>, <xref ref-type="bibr" rid="pone.0039138-Godinho2">[25]</xref>, <xref ref-type="bibr" rid="pone.0039138-Vieira1">[26]</xref>, <xref ref-type="bibr" rid="pone.0039138-Alves1">[33]</xref>, <xref ref-type="bibr" rid="pone.0039138-Latini2">[34]</xref>. A similar situation has been observed for native fishes in Victoria Lake, Africa, after the introduction of <italic>Lates niloticus</italic> (Linnaeus, 1758) <xref ref-type="bibr" rid="pone.0039138-Goudswaard1">[35]</xref> and in other biodiversity hotspots invaded by alien fishes <xref ref-type="bibr" rid="pone.0039138-Gozlan2">[36]</xref>. The native fish fauna of the middle Doce River survives only in lakes without alien species, but the relative lack of appeal of native species to local people can jeopardize the integrity of the lake system. Avoiding introductions of exotic species is not a great concern among fishermen, although many locals acknowledge possible damage caused by introduced species such as <italic>Cichla monoculus</italic>, <italic>Oreochromis niloticus</italic>, and <italic>Colossoma macropomum</italic> (Cuvier, 1818), which are exploited commercially and for sport fishing <xref ref-type="bibr" rid="pone.0039138-Lima1">[21]</xref>. The lack of popular awareness of the value of native biodiversity has contributed to the spread of exotic fish species and subsequent biodiversity loss in Doce River Basin. Sport fishing and aquaculture activities also favor the introduction of <italic>P. squamosissimus</italic> and <italic>P. managuensis</italic>, which have already impacted other watersheds where they were introduced. Invasions by non-native piscivorous fishes have been historically observed in Doce River Basin and these two exotic species are likely to aggravate biodiversity loss of the Rio Doce Basin in Minas Gerais, Brazil.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Iolanda Sena Gonçalves for logistical support. To Asia Science and Journal Editors of America LLC for English revision and editing of this manuscript.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0039138-Myers1">
+        <label>1</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Myers</surname><given-names>JH</given-names></name><name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name><name name-style="western"><surname>Kuris</surname><given-names>AM</given-names></name><name name-style="western"><surname>Carey</surname><given-names>JR</given-names></name></person-group>             <year>2000</year>             <article-title>Eradication revisited: dealing with exotic species.</article-title>             <source>Tree</source>             <volume>15</volume>             <fpage>16</fpage>             <lpage>320</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Mack1">
+        <label>2</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Mack</surname><given-names>RN</given-names></name><name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name><name name-style="western"><surname>Lonsdale</surname><given-names>WM</given-names></name><name name-style="western"><surname>Evans</surname><given-names>H</given-names></name><name name-style="western"><surname>Cout</surname><given-names>M</given-names></name><etal/></person-group>             <year>2000</year>             <article-title>Biotic Invasions: causes, epidemiology, global consequences and control.</article-title>             <source>J. Appl Ecol</source>             <volume>10</volume>             <fpage>689</fpage>             <lpage>710</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Gozlan1">
+        <label>3</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Gozlan</surname><given-names>RE</given-names></name><name name-style="western"><surname>Britton</surname><given-names>JR</given-names></name><name name-style="western"><surname>Cowx</surname><given-names>I</given-names></name><name name-style="western"><surname>Copp</surname><given-names>GH</given-names></name></person-group>             <year>2010</year>             <article-title>Current knowledge on non-native freshwater fish introductions.</article-title>             <source>J Fish Biol</source>             <volume>76</volume>             <fpage>751</fpage>             <lpage>786</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Hall1">
+        <label>4</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Hall</surname><given-names>SR</given-names></name><name name-style="western"><surname>Mills</surname><given-names>EL</given-names></name></person-group>             <year>2000</year>             <article-title>Exotic species in large lakes of the world.</article-title>             <source>Aquat Ecosyst Health Manag</source>             <volume>3</volume>             <fpage>105</fpage>             <lpage>135</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Ziller1">
+        <label>5</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ziller</surname><given-names>SR</given-names></name><name name-style="western"><surname>Zalba</surname><given-names>SM</given-names></name><name name-style="western"><surname>Zenni</surname><given-names>RD</given-names></name></person-group>             <year>2007</year>             <article-title>Modelo para o desenvolvimento de uma estratégia nacional para espécies exóticas invasoras. Paraná: The Global Invasive Species Programme – GISP.</article-title>             <source>56 p</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Paiva1">
+        <label>6</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Paiva</surname><given-names>SR</given-names></name><name name-style="western"><surname>Dergam</surname><given-names>JA</given-names></name><name name-style="western"><surname>Andrade</surname><given-names>FM</given-names></name></person-group>             <year>2006</year>             <article-title>Determining management units in southeastern Brazil: the case of <italic>Astyanax bimaculatus</italic> (Linnaeus, 1758) (Teleostei: Ostariophysi: Characidae).</article-title>             <source>Hydrobiol</source>             <volume>560</volume>             <fpage>393</fpage>             <lpage>404</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-DeKlemm1">
+        <label>7</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>De Klemm</surname><given-names>C</given-names></name></person-group>             <year>1996</year>             <article-title>Introduction of non-native organisms into the natural environment. Strasbourg: Nature and Environment.</article-title>             <source>73 p</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Wolter1">
+        <label>8</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wolter</surname><given-names>C</given-names></name><name name-style="western"><surname>Röhr</surname><given-names>F</given-names></name></person-group>             <year>2012</year>             <article-title>Distribution history of non-native fish species in Germany: how invasive are they?</article-title>             <source>J Appl Ichthyol</source>             <volume>26</volume>             <fpage>19</fpage>             <lpage>27</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Ribeiro1">
+        <label>9</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ribeiro</surname><given-names>F</given-names></name><name name-style="western"><surname>Leunda</surname><given-names>PM</given-names></name></person-group>             <year>2012</year>             <article-title>Non-native fish impacts on Mediterranean freshwater ecosystems: current knowledge and research needs.</article-title>             <source>Fish Manage Ecol</source>             <volume>19</volume>             <fpage>142</fpage>             <lpage>156</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Clavero1">
+        <label>10</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Clavero</surname><given-names>M</given-names></name><name name-style="western"><surname>García-Berthou</surname><given-names>E</given-names></name></person-group>             <year>2005</year>             <article-title>Invasive species are a leading cause of animal extinctions.</article-title>             <source>Trends Ecol Evol</source>             <volume>20</volume>             <fpage>110</fpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Clout1">
+        <label>11</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Clout</surname><given-names>M</given-names></name></person-group>             <year>2004</year>             <article-title>Global invasive species pro-gramme (GISP) Update.</article-title>             <source>Aliens</source>             <volume>13</volume>             <fpage>3</fpage>             <lpage>6</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Groom1">
+        <label>12</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Groom</surname><given-names>M</given-names></name><name name-style="western"><surname>Meffe</surname><given-names>GK</given-names></name><name name-style="western"><surname>Carroll</surname><given-names>CR</given-names></name></person-group>             <year>2006</year>             <article-title>Principles of conservation biology. Sunderland: Sinauer Associates.</article-title>             <source>17 p</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Rodrguez1">
+        <label>13</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rodríguez</surname><given-names>JP</given-names></name></person-group>             <year>2001</year>             <article-title>Exotic species introductions into South America: an underestimated threat?.</article-title>             <source>Biodivers Conserv</source>             <volume>10</volume>             <fpage>1983</fpage>             <lpage>1996</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-MontoyaBurgos1">
+        <label>14</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Montoya-Burgos</surname><given-names>JI</given-names></name></person-group>             <year>2003</year>             <article-title>Historical biogeography of the catfish genus <italic>Hypostomus</italic> (Siluriformes: Loricariidae), with implications on the diversification of Neotropical ichthyofauna.</article-title>             <source>Mol Ecol</source>             <volume>12</volume>             <fpage>1855</fpage>             <lpage>1867</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Vitule1">
+        <label>15</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Vitule</surname><given-names>JRS</given-names></name><name name-style="western"><surname>Freire</surname><given-names>CA</given-names></name><name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name></person-group>             <year>2009</year>             <article-title>Introduction of non-native freshwater fish can certainly be bad.</article-title>             <source>Fish Fish</source>             <volume>10</volume>             <fpage>98</fpage>             <lpage>108</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Godinho1">
+        <label>16</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Godinho</surname><given-names>AL</given-names></name><name name-style="western"><surname>Vieira</surname><given-names>F</given-names></name></person-group>             <year>1998</year>             <article-title>Ictiofauna.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Costa</surname><given-names>C</given-names></name></person-group>             <fpage>pp.44</fpage>             <lpage>46</lpage>             <comment>editor.</comment>             <comment>Biodiversidade em Minas Gerais: um atlas para sua conservação.</comment>             <comment>Belo Horizonte: Fundação Biodiversitas.</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-MMASBF1">
+        <label>17</label>
+        <element-citation publication-type="other" xlink:type="simple">             <collab xlink:type="simple">MMA/SBF</collab>             <year>2000</year>             <article-title>Avaliação e ações prioritárias para a conservação da biodiversidade da Mata Atlântica e Campos Sulinos. Brasilia: MMA.</article-title>             <source>40 p</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Drummond1">
+        <label>18</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Drummond</surname><given-names>GM</given-names></name><name name-style="western"><surname>Martins</surname><given-names>CS</given-names></name><name name-style="western"><surname>Machado</surname><given-names>ABM</given-names></name><name name-style="western"><surname>Sebaio</surname><given-names>FA</given-names></name><name name-style="western"><surname>Antonini</surname><given-names>Y</given-names></name></person-group>             <year>2005</year>             <article-title>Biodiversidade em Minas Gerais: um atlas para a sua conservação. Belo Horizonte: Fundação Biodiversitas.</article-title>             <source>222 p</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Latini1">
+        <label>19</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Latini</surname><given-names>AO</given-names></name><name name-style="western"><surname>Petrere</surname><given-names>M</given-names><suffix>Jr</suffix></name></person-group>             <year>2004</year>             <article-title>Reduction of anative fish fauna by alien species: an Example from Brazilian freshwater tropical lakes.</article-title>             <source>Fish Manage Ecol</source>             <volume>11</volume>             <fpage>71</fpage>             <lpage>79</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Dergam1">
+        <label>20</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Dergam</surname><given-names>JA</given-names></name><name name-style="western"><surname>Paiva</surname><given-names>SR</given-names></name><name name-style="western"><surname>Schaeffer</surname><given-names>CE</given-names></name><name name-style="western"><surname>Godinho</surname><given-names>AL</given-names></name><name name-style="western"><surname>Vieira</surname><given-names>F</given-names></name></person-group>             <year>2002</year>             <article-title>Phylogeography and RAPD-PCR variation in <italic>Hoplias malabaricus</italic> (Bloch, 1794) (Pisces, Teleostei) in southeastern Brazil.</article-title>             <source>Genet Mol Biol</source>             <volume>25</volume>             <fpage>379</fpage>             <lpage>387</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Lima1">
+        <label>21</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Lima</surname><given-names>PF</given-names></name><name name-style="western"><surname>Latini</surname><given-names>OA</given-names></name><name name-style="western"><surname>Júnior</surname><given-names>MP</given-names></name></person-group>             <year>2010</year>             <article-title>How are the lakes? Environmental perception by fishermen and alien fish dispersal in Brazilian tropical lakes.</article-title>             <source>Interciencia</source>             <volume>35</volume>             <fpage>84</fpage>             <lpage>91</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Reis1">
+        <label>22</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Reis</surname><given-names>RE</given-names></name><name name-style="western"><surname>Kullander</surname><given-names>S</given-names></name><name name-style="western"><surname>Ferraris</surname><given-names>CJ</given-names><suffix>Jr</suffix></name></person-group>             <year>2003</year>             <article-title>Check list of the fishes of South and Central America. Porto alegre: Edipucrs.</article-title>             <source>729 p</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Conkel1">
+        <label>23</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Conkel</surname><given-names>D</given-names></name></person-group>             <year>1993</year>             <article-title>Cichlids of North and Central AmericaI. New Yourk: TFH Publications.</article-title>             <source>118 p</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Barbosa1">
+        <label>24</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Barbosa</surname><given-names>JM</given-names></name><name name-style="western"><surname>Mendonça</surname><given-names>ITL</given-names></name><name name-style="western"><surname>Ponzi</surname><given-names>JM</given-names></name></person-group>             <year>2006</year>             <article-title>Comportamento social e crescimento em alevinos de <italic>Parachromis managuensis</italic> (Güenther, 1867): uma espécie introduzida no Brasil.</article-title>             <source>Rev Bras Eng Pesca</source>             <volume>1</volume>             <fpage>61</fpage>             <lpage>72</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Godinho2">
+        <label>25</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Godinho</surname><given-names>AL</given-names></name><name name-style="western"><surname>Fonseca</surname><given-names>MT</given-names></name><name name-style="western"><surname>Araújo</surname><given-names>LM</given-names></name></person-group>             <year>1994</year>             <article-title>The ecology of predador fish introductions: the case of Rio Doce Valley Lakes.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Pinto-Coelho</surname><given-names>RM</given-names></name><name name-style="western"><surname>Giani</surname><given-names>EVS</given-names></name></person-group>             <fpage>77</fpage>             <lpage>83</lpage>             <comment>editors.</comment>             <comment>Ecological and human impact on lakes and reservoirs in Minas Gerais.</comment>             <comment>Belo Horizonte: SEGRAC.</comment>             <comment>pp.</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Vieira1">
+        <label>26</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Vieira</surname><given-names>F</given-names></name></person-group>             <year>2006</year>             <article-title>A ictiofauna do Rio Santo Antônio, bacia do Rio Doce, MG: proposta de conservação. Belo Horizonte: Universidade Federal de Minas Gerais.</article-title>             <source>101 p</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-PintoCoelho1">
+        <label>27</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Pinto-Coelho</surname><given-names>RM</given-names></name><name name-style="western"><surname>Bezerra-Neto</surname><given-names>JF</given-names></name><name name-style="western"><surname>Miranda</surname><given-names>F</given-names></name><name name-style="western"><surname>Mota</surname><given-names>TG</given-names></name><name name-style="western"><surname>Reck</surname><given-names>R</given-names></name><etal/></person-group>             <year>2008</year>             <article-title>The inverted trophic cascade in tropical plankton communities: Impacts of exotic fish in the Middle Rio Doce lake district, Minas Gerais, Brazil.</article-title>             <source>Braz J Biol</source>             <volume>68</volume>             <fpage>1025</fpage>             <lpage>1037</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Rosa1">
+        <label>28</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rosa</surname><given-names>RS</given-names></name><name name-style="western"><surname>Lima</surname><given-names>FCT</given-names></name></person-group>             <year>2005</year>             <article-title>Peixes.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Machado</surname><given-names>ABM</given-names></name><name name-style="western"><surname>Martins</surname><given-names>CS</given-names></name><name name-style="western"><surname>Drummond</surname><given-names>GM</given-names></name></person-group>             <fpage>65</fpage>             <lpage>81</lpage>             <comment>editors.</comment>             <comment>Lista da fauna brasileira ameaçada de extinção: incluindo as espécies quase ameaçadas e deficientes em dados.</comment>             <comment>Belo Horizonte: Fundação Biodiversitas.</comment>             <comment>pp.</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Keane1">
+        <label>29</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Keane</surname><given-names>RM</given-names></name><name name-style="western"><surname>Crawley</surname><given-names>MJ</given-names></name></person-group>             <year>2002</year>             <article-title>Exotic plant invasions and the enemy release hypothesis.</article-title>             <source>Trends Ecol Evol</source>             <volume>14</volume>             <fpage>164</fpage>             <lpage>170</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Duncan1">
+        <label>30</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Duncan</surname><given-names>RI</given-names></name><name name-style="western"><surname>Williams</surname><given-names>PA</given-names></name></person-group>             <year>2002</year>             <article-title>Darwin's naturalization hypothesis challenged.</article-title>             <source>Nature</source>             <volume>417</volume>             <fpage>608</fpage>             <lpage>609</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Bennemann1">
+        <label>31</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Bennemann</surname><given-names>ST</given-names></name><name name-style="western"><surname>Capra</surname><given-names>LG</given-names></name><name name-style="western"><surname>Galves</surname><given-names>W</given-names></name><name name-style="western"><surname>Shibatta</surname><given-names>O</given-names></name></person-group>             <year>2006</year>             <article-title>Dinâmica trófica de Plagioscion squamosissimus (Perciformes Sciaenidae) em trechos de influência da represa Capivara (rio Paranapanema e Tibagi).</article-title>             <source>Iheringia Sér Zool</source>             <volume>96</volume>             <fpage>115</fpage>             <lpage>119</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Makraks1">
+        <label>32</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Makraks</surname><given-names>MC</given-names></name><name name-style="western"><surname>Nakatani</surname><given-names>K</given-names></name><name name-style="western"><surname>Bialetzki</surname><given-names>A</given-names></name><name name-style="western"><surname>Gomes</surname><given-names>LC</given-names></name><name name-style="western"><surname>Sanches</surname><given-names>PV</given-names></name><etal/></person-group>             <year>2008</year>             <article-title>Relationship between gape size and feeding selectivity of fish larvae from a Neotropical reservoir.</article-title>             <source>J Fish Biol</source>             <volume>72</volume>             <fpage>1690</fpage>             <lpage>1707</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Alves1">
+        <label>33</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Alves</surname><given-names>CBM</given-names></name><name name-style="western"><surname>Vieira</surname><given-names>F</given-names></name><name name-style="western"><surname>Magalhães</surname><given-names>AL</given-names></name><name name-style="western"><surname>Brito</surname><given-names>MFG</given-names></name></person-group>             <year>2007</year>             <article-title>Impacts of non-native fish species in Minas Gerais, Brazil: present situation and prospects.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Bert</surname><given-names>TM</given-names></name></person-group>             <fpage>291</fpage>             <lpage>314</lpage>             <comment>editors.</comment>             <comment>Ecological and genetic implications of aquaculture activities.</comment>             <comment>Dordrecht: Springer.</comment>             <comment>pp.</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Latini2">
+        <label>34</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Latini</surname><given-names>AO</given-names></name><name name-style="western"><surname>Lima-Junior</surname><given-names>DP</given-names></name><name name-style="western"><surname>Glacomini</surname><given-names>HC</given-names></name><name name-style="western"><surname>Latini</surname><given-names>RO</given-names></name><name name-style="western"><surname>Rsende</surname><given-names>DC</given-names></name><etal/></person-group>             <year>2004</year>             <article-title>Alien fishes in lakes of the Doce River Basin (Brazil): range, new ocurrences and conservation of native communities.</article-title>             <source>Lundiana</source>             <volume>5</volume>             <fpage>135</fpage>             <lpage>142</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Goudswaard1">
+        <label>35</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Goudswaard</surname><given-names>PC</given-names></name><name name-style="western"><surname>Witte</surname><given-names>F</given-names></name><name name-style="western"><surname>Katunzi</surname><given-names>EFB</given-names></name></person-group>             <year>2002</year>             <article-title>The tilapiine fish stock of Lake Victoria before and after the Nile perch upsurge.</article-title>             <source>J Fish Biol</source>             <volume>60</volume>             <fpage>838</fpage>             <lpage>856</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Gozlan2">
+        <label>36</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Gozlan</surname><given-names>RE</given-names></name></person-group>             <year>2012</year>             <article-title>Mapping conservation priorities in the Mediterranan: the issue of non-native freshwater fish introductions.</article-title>             <source>Fish Manage Ecol</source>             <volume>19</volume>             <fpage>89</fpage>             <lpage>92</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039138-Froese1">
+        <label>37</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Froese</surname><given-names>R</given-names></name><name name-style="western"><surname>Pauly</surname><given-names>D</given-names></name></person-group>             <year>2011</year>             <article-title>FishBase. World Wide Web electronic publication.</article-title>             <comment> Avaliable: <ext-link ext-link-type="uri" xlink:href="http://www.fishbase.org" xlink:type="simple">http://www.fishbase.org</ext-link>.</comment>             <comment>Accessed 10 May 2012.</comment>          </element-citation>
+      </ref>
+    </ref-list>
+    
+  </back>
+</article>

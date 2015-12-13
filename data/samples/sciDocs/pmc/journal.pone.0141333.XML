@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id>
+<journal-title-group>
+<journal-title>PLOS ONE</journal-title>
+</journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, CA USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1371/journal.pone.0141333</article-id>
+<article-id pub-id-type="publisher-id">PONE-D-15-36380</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Ocelot Population Status in Protected Brazilian Atlantic Forest</article-title>
+<alt-title alt-title-type="running-head">Ocelot Population in Atlantic Forest Reserves</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western">
+<surname>Massara</surname>
+<given-names>Rodrigo Lima</given-names>
+</name>
+<xref rid="aff001" ref-type="aff"><sup>1</sup></xref>
+<xref rid="aff002" ref-type="aff"><sup>2</sup></xref>
+<xref rid="cor001" ref-type="corresp">*</xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Paschoal</surname>
+<given-names>Ana Maria de Oliveira</given-names>
+</name>
+<xref rid="aff001" ref-type="aff"><sup>1</sup></xref>
+<xref rid="aff002" ref-type="aff"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Doherty</surname>
+<given-names>Paul Francis</given-names>
+<suffix>Jr.</suffix>
+</name>
+<xref rid="aff003" ref-type="aff"><sup>3</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Hirsch</surname>
+<given-names>André</given-names>
+</name>
+<xref rid="aff004" ref-type="aff"><sup>4</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Chiarello</surname>
+<given-names>Adriano Garcia</given-names>
+</name>
+<xref rid="aff005" ref-type="aff"><sup>5</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff001"><label>1</label> <addr-line>Departamento de Biologia Geral, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil</addr-line></aff>
+<aff id="aff002"><label>2</label> <addr-line>Instituto SerraDiCal de Pesquisa e Conservação, Belo Horizonte, Minas Gerais, Brazil</addr-line></aff>
+<aff id="aff003"><label>3</label> <addr-line>Department of Fish, Wildlife, and Conservation Biology, Colorado State University, Fort Collins, Colorado, United States of America</addr-line></aff>
+<aff id="aff004"><label>4</label> <addr-line>Programa Institucional de Bioengenharia, Universidade Federal de São João Del Rei, Sete Lagoas, Minas Gerais, Brazil</addr-line></aff>
+<aff id="aff005"><label>5</label> <addr-line>Departamento de Biologia, Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, São Paulo, Brazil</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple">
+<name name-style="western">
+<surname>Baldwin</surname>
+<given-names>Robert F.</given-names>
+</name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/>
+</contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>Clemson University, UNITED STATES</addr-line></aff>
+<author-notes>
+<fn fn-type="conflict" id="coi001">
+<p>The authors have declared that no competing interests exist.</p>
+</fn>
+<fn fn-type="con" id="contrib001">
+<p>Conceived and designed the experiments: RLM AMOP AGC. Performed the experiments: RLM AMOP. Analyzed the data: RLM PFDJ. Contributed reagents/materials/analysis tools: PFDJ AH. Wrote the paper: RLM AMOP PFDJ AGC.</p>
+</fn>
+<corresp id="cor001">* E-mail: <email xlink:type="simple">rmassara@gmail.com</email></corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>11</day>
+<month>11</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="collection">
+<year>2015</year>
+</pub-date>
+<volume>10</volume>
+<issue>11</issue>
+<elocation-id>e0141333</elocation-id>
+<history>
+<date date-type="received">
+<day>18</day>
+<month>8</month>
+<year>2015</year>
+</date>
+<date date-type="accepted">
+<day>7</day>
+<month>10</month>
+<year>2015</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2015</copyright-year>
+<copyright-holder>Massara et al</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited</license-p>
+</license>
+</permissions>
+<self-uri content-type="pdf" xlink:href="info:doi/10.1371/journal.pone.0141333" xlink:type="simple"/>
+<abstract>
+<p>Forest fragmentation and habitat loss are detrimental to top carnivores, such as jaguars (<italic>Panthera onca</italic>) and pumas (<italic>Puma concolor</italic>), but effects on mesocarnivores, such as ocelots (<italic>Leopardus pardalis</italic>), are less clear. Ocelots need native forests, but also might benefit from the local extirpation of larger cats such as pumas and jaguars through mesopredator release. We used a standardized camera trap protocol to assess ocelot populations in six protected areas of the Atlantic forest in southeastern Brazil where over 80% of forest remnants are &lt; 50 ha. We tested whether variation in ocelot abundance could be explained by reserve size, forest cover, number of free-ranging domestic dogs and presence of top predators. Ocelot abundance was positively correlated with reserve size and the presence of top predators (jaguar and pumas) and negatively correlated with the number of dogs. We also found higher detection probabilities in less forested areas as compared to larger, intact forests. We suspect that smaller home ranges and higher movement rates in smaller, more degraded areas increased detection. Our data do not support the hypothesis of mesopredator release. Rather, our findings indicate that ocelots respond negatively to habitat loss, and thrive in large protected areas inhabited by top predators.</p>
+</abstract>
+<funding-group>
+<funding-statement>The study was funded by The Brazilian Science Council (CNPq 472802/2010-0 - Conselho Nacional de Desenvolvimento Científico e Tecnológico - <ext-link ext-link-type="uri" xlink:href="http://www.cnpq.br" xlink:type="simple">http://www.cnpq.br</ext-link>) and Minas Gerais Science Foundation (FAPEMIG APQ 01145-10 - Fundação de Amparo à Pesquisa do Estado de Minas Gerais - <ext-link ext-link-type="uri" xlink:href="http://www.fapemig.br" xlink:type="simple">http://www.fapemig.br</ext-link>). The Brazilian Coordination of Higher Studies (CAPES- Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - <ext-link ext-link-type="uri" xlink:href="http://www.capes.gov.br" xlink:type="simple">http://www.capes.gov.br</ext-link>) and CNPq provided grants to AMOP. CNPq and FAPEMIG provided grants to RLM. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+<counts>
+<fig-count count="2"/>
+<table-count count="7"/>
+<page-count count="17"/>
+</counts>
+<custom-meta-group>
+<custom-meta id="data-availability" xlink:type="simple">
+<meta-name>Data Availability</meta-name>
+<meta-value>All relevant data are within the paper.</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="sec001" sec-type="intro">
+<title>Introduction</title>
+<p>Fragmentation and habitat loss are serious threats to tropical forest biodiversity [<xref rid="pone.0141333.ref001" ref-type="bibr">1</xref>, <xref rid="pone.0141333.ref002" ref-type="bibr">2</xref>] and the Atlantic Forest is no exception [<xref rid="pone.0141333.ref003" ref-type="bibr">3</xref>–<xref rid="pone.0141333.ref005" ref-type="bibr">5</xref>]. The vast majority of remnants (&gt; 80%) in this biome are smaller than 50 ha and 61% of these are more than 25 km from protected areas (PAs), which protect only 9% of the remaining forest and 1% of the biomes’ original area [<xref rid="pone.0141333.ref004" ref-type="bibr">4</xref>]. This biome scenario is inadequate for the long-term conservation of top predators such as jaguars (<italic>Panthera onca</italic>) and mountain lions (<italic>Puma concolor</italic>) [<xref rid="pone.0141333.ref006" ref-type="bibr">6</xref>, <xref rid="pone.0141333.ref007" ref-type="bibr">7</xref>].</p>
+<p>While impacts of forest loss and fragmentation are well documented for large predators [<xref rid="pone.0141333.ref008" ref-type="bibr">8</xref>, <xref rid="pone.0141333.ref009" ref-type="bibr">9</xref>], the effects on mesocarnivores are less clear. Mesocarnivores are species belonging to the order Carnivora that are neither large nor top predators [<xref rid="pone.0141333.ref010" ref-type="bibr">10</xref>]. They are small or medium-sized species (less than 15 kg); may be solitary to highly social, frugivorous to strictly carnivorous, and have high phenotypic plasticity [<xref rid="pone.0141333.ref010" ref-type="bibr">10</xref>]. These life-history characteristics might allow some species of mesocarnivores to “replace” top predators when such species are absent or declining, altering the food chain (mesopredator release theory; [<xref rid="pone.0141333.ref011" ref-type="bibr">11</xref>]).</p>
+<p>The ocelot (<italic>Leopardus pardalis</italic>) is a mesocarnivore in neotropical forests that may thrive in forest patches where top predators are absent or rare [<xref rid="pone.0141333.ref012" ref-type="bibr">12</xref>]. In these circumstances, ocelot might expand its trophic niche in response to a competitive release [<xref rid="pone.0141333.ref012" ref-type="bibr">12</xref>]. Normally, ocelot diets are composed of small mammals (&lt;2.0 kg; [<xref rid="pone.0141333.ref013" ref-type="bibr">13</xref>]), but recent studies suggest that in the absence of top predators, especially jaguars, ocelots take larger prey [<xref rid="pone.0141333.ref014" ref-type="bibr">14</xref>–<xref rid="pone.0141333.ref016" ref-type="bibr">16</xref>]. Ocelots can also prey on other mesocarnivores [<xref rid="pone.0141333.ref017" ref-type="bibr">17</xref>–<xref rid="pone.0141333.ref019" ref-type="bibr">19</xref>] and hunt or harass smaller felines, such as jaguarondi (<italic>Puma yagouaroundi</italic>), margay (<italic>Leopardus wiedii</italic>) and oncilla (<italic>Leopardus tigrinus</italic>) [<xref rid="pone.0141333.ref020" ref-type="bibr">20</xref>, <xref rid="pone.0141333.ref021" ref-type="bibr">21</xref>]. Together, these findings suggest that ocelots are opportunistic, ecologically plastic and may thrive in fragmented landscapes [<xref rid="pone.0141333.ref022" ref-type="bibr">22</xref>, <xref rid="pone.0141333.ref023" ref-type="bibr">23</xref>].</p>
+<p>However, ocelots may be more sensitive to fragmentation than other mesocarnivores because the species may have high affinity for closed canopy forests [<xref rid="pone.0141333.ref024" ref-type="bibr">24</xref>, <xref rid="pone.0141333.ref025" ref-type="bibr">25</xref>]. The species is considered vulnerable in fragmented areas outside the Brazilian Amazon, such as the Atlantic Forest [<xref rid="pone.0141333.ref026" ref-type="bibr">26</xref>]. Thus, two opposing forces may be affecting ocelot populations in fragmented landscapes. The abundance of ocelots may be increasing due to mesopredator release or, abundance may be decreasing due to fragmentation and habitat loss. To test these two main hypotheses, and to understand the ecological process driving ocelot population dynamics and conservation status, we estimated ocelot abundance in a range of Atlantic Forest PAs. Specifically we assessed the effects of the amount of habitat (percent of forest cover and reserve size), impact of an invasive domestic species (relative abundance of free-ranging domestic dogs) and presence of top predators (mountain lions and jaguars) on ocelot abundance. We hypothesize a positive relationship between ocelot abundance and reserve size because larger forested areas could support more ocelots [<xref rid="pone.0141333.ref006" ref-type="bibr">6</xref>, <xref rid="pone.0141333.ref007" ref-type="bibr">7</xref>, <xref rid="pone.0141333.ref027" ref-type="bibr">27</xref>]. We expect a negative relationship between ocelot abundance and domestic dogs and top predators, because these species are considered potential competitors to ocelots [<xref rid="pone.0141333.ref028" ref-type="bibr">28</xref>, <xref rid="pone.0141333.ref029" ref-type="bibr">29</xref>].</p>
+<p>Camera traps are a common tool used to assess ocelot density [<xref rid="pone.0141333.ref029" ref-type="bibr">29</xref>–<xref rid="pone.0141333.ref033" ref-type="bibr">33</xref>], but few studies have accounted for potential variation in detection probability (<italic>p</italic>). To prevent potential biases caused by such variation, we tested several hypotheses involving factors that may influence detection. We expected that detection probability may vary among the sexes: females may have a higher detection probability than males because they have smaller home ranges that they use more intensively [<xref rid="pone.0141333.ref013" ref-type="bibr">13</xref>]. Alternatively, males travel larger distances [<xref rid="pone.0141333.ref034" ref-type="bibr">34</xref>], and they may be exposed to more cameras than females and thus have a higher detection probability. We expected a trap shy behavioral response in which recapture probability (<italic>c</italic>) of ocelots would be lower than the initial detection probability (<italic>p</italic>) because of the camera flash [<xref rid="pone.0141333.ref035" ref-type="bibr">35</xref>, <xref rid="pone.0141333.ref036" ref-type="bibr">36</xref>]. We also expected ocelots to be more elusive and restrict their movements in areas with a higher abundance of top-predators or dogs [<xref rid="pone.0141333.ref028" ref-type="bibr">28</xref>, <xref rid="pone.0141333.ref029" ref-type="bibr">29</xref>]. The number of unpaved roads within a reserve could also influence detection because ocelots often use trails or unpaved roads to move around the landscape [<xref rid="pone.0141333.ref037" ref-type="bibr">37</xref>–<xref rid="pone.0141333.ref039" ref-type="bibr">39</xref>]. We hypothesized that detection probability would be negatively correlated with density of travel routes because we could not survey many routes with our few cameras. Further, detection may be influenced by the location of cameras. Given the known affinity of ocelots for unpaved roads, we expected a positive relationship between detection and proportion of cameras installed on unpaved roads. We also expected a low detection probability in large densely, forested areas (the preferential habitat of the species; [<xref rid="pone.0141333.ref024" ref-type="bibr">24</xref>, <xref rid="pone.0141333.ref040" ref-type="bibr">40</xref>]), because individuals have more area to explore and may have larger home ranges. Finally, we expected a higher detection probability in dry seasons because ocelots may be more active in the dry season due to resource scarcity [<xref rid="pone.0141333.ref041" ref-type="bibr">41</xref>].</p>
+<p>In summary, our main objective is to estimate ocelot abundance and density in six Atlantic Forest reserves in southeastern Brazil, while correcting for factors that may influence detection. We also assess the ability of reserve and individual ocelot variables to explain variation in ocelot abundance and detection. Finally, we compare our estimates with other estimates to assess the current ocelot population status in Atlantic Forest remnants.</p>
+</sec>
+<sec id="sec002" sec-type="materials|methods">
+<title>Materials and Methods</title>
+<sec id="sec003">
+<title>Ethics statement</title>
+<p>Sampling was performed under licenses obtained from the State Forest Institute (Instituto Estadual de Florestas—IEF) of the State Parks (UC: 080/10, 081/ 10 and 082/10) and under permission from the responsible (the owner of the land) of the private reserves. Data collection used non-invasive, remotely activated camera traps and did not involve direct contact or interaction with animals.</p>
+</sec>
+<sec id="sec004">
+<title>Study areas</title>
+<p>We sampled six protected areas in the Atlantic Forest located in the State of Minas Gerais, southeastern Brazil (<xref rid="pone.0141333.g001" ref-type="fig">Fig 1</xref>). These include one large (&gt; 20,000 ha) and two medium-sized (10,000–20,000 ha) state parks, respectively: Rio Doce (RD), Serra do Brigadeiro (SB) and Sete Salões (SS), and three small (&lt; 10,000 ha) private reserves: Feliciano Miguel Abdala (FMA), Mata do Sossego (MS), and Fazenda Macedônia (FM). Vegetation in all areas is classified as semi-deciduous seasonal forest [<xref rid="pone.0141333.ref042" ref-type="bibr">42</xref>]. Elevation in these areas ranges from 150 m (RD) to 2,075 m (SB) [<xref rid="pone.0141333.ref043" ref-type="bibr">43</xref>] and the climate is classified as humid tropical in SB and semi-humid in the other PAs [<xref rid="pone.0141333.ref044" ref-type="bibr">44</xref>]. We considered RD as a reference area since it is one of the largest PAs remaining in the Atlantic Forest of southeastern Brazil, with a diverse mammal community, including jaguars, mountain lions, tapirs (<italic>Tapirus terrestris</italic>) and giant armadillos (<italic>Priodontes maximus</italic>) [<xref rid="pone.0141333.ref045" ref-type="bibr">45</xref>, <xref rid="pone.0141333.ref046" ref-type="bibr">46</xref>]. Although jaguars, tapirs and giant armadillos are absent in the other PAs, mountain lions can be detected in SB, SS, FMA and FM (Paschoal et al., in prep.).</p>
+<fig id="pone.0141333.g001" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0141333.g001</object-id>
+<label>Fig 1</label>
+<caption>
+<title>Atlantic Forest reserves sampled for ocelot populations in State of Minas Gerais (MG), southeastern Brazil.</title>
+<p>FM = Fazenda Macedônia Reserve; FMA = Feliciano Miguel Abdala Reserve; MS = Mata do Sossego Reserve; SB = Serra do Brigadeiro State Park; SS = Sete Salões State Park; RD = Rio Doce State Park. The current distribution of Atlantic Forest remnants are shown in the insert (grey area) as defined by the SOS Mata Atlântica Foundation [<xref rid="pone.0141333.ref047" ref-type="bibr">47</xref>]. The state divisions are from the Brazilian Institute of Geography and Statistics [<xref rid="pone.0141333.ref048" ref-type="bibr">48</xref>].</p>
+</caption>
+<graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.g001" position="float" xlink:type="simple"/>
+</fig>
+</sec>
+<sec id="sec005">
+<title>Sampling design</title>
+<p>We used a standardized camera trap protocol to detect ocelots in the six reserves. Cameras were set to operate for 24 hours with an interval of five minutes between photos. Reserves were sampled for 80 consecutive days in each season (dry: April-September; wet: October-March).</p>
+<p>In each study area, we selected 20 random sampling points (camera locations) from satellite images using ArcGIS 9.2 [<xref rid="pone.0141333.ref049" ref-type="bibr">49</xref>]. We distributed camera locations to ensure that at least one trapping station was located in a circular area equivalent to the smallest known home range of ocelots (76 ha; [<xref rid="pone.0141333.ref050" ref-type="bibr">50</xref>]). Any two adjacent trapping stations were up to 1 km apart, thus maximizing the probability of recording every individual present in the area. In the field, camera locations were placed as close as possible to the predetermined coordinates, usually within 50 m or 100 m, but preferentially placed along game trails, human paths, or unpaved roads because ocelots use these as travel routes [<xref rid="pone.0141333.ref037" ref-type="bibr">37</xref>–<xref rid="pone.0141333.ref039" ref-type="bibr">39</xref>]. We recorded the actual camera location using a GPS unit.</p>
+<p>We installed camera traps in pairs to obtain simultaneous recording of the right and left sides of ocelots, allowing for individual identification. Because we only had ten cameras, we randomly moved pairs of cameras among sampling locations. We left cameras in place for 20 consecutive days before moving them to another five random points in the reserve, until all 20 points were sampled (total of 80 days). When we moved cameras, we also changed film and batteries. The total sampling effort, considering the pair of cameras at each location as a single sampling unit, was 800 camera trap-days in each reserve (400 camera trap-days /season).</p>
+</sec>
+<sec id="sec006">
+<title>Estimating abundance, density and detection probability</title>
+<p>We individually identified ocelots by stripe patterns on flanks, which are unique among individuals. Sex was determined by observation of genitals and the presence or absence of testes were used to distinguish between males and females. From these observations, we developed encounter histories for the 80 days of sampling in each season in each reserve depending on whether each individual was detected (1) or not (0). We collapsed our 80 days into groups of ten days (i.e., each individual encounter history contained eight occasions) in order to increase detection probabilities and improve estimates, as suggested by previous studies with elusive carnivores [<xref rid="pone.0141333.ref051" ref-type="bibr">51</xref>, <xref rid="pone.0141333.ref052" ref-type="bibr">52</xref>]. We included sex as an individual covariate and used the Huggins closed capture model [<xref rid="pone.0141333.ref053" ref-type="bibr">53</xref>, <xref rid="pone.0141333.ref054" ref-type="bibr">54</xref>] in Program MARK [<xref rid="pone.0141333.ref055" ref-type="bibr">55</xref>] to estimate abundance.</p>
+<p>We mapped the land cover types by interpreting and classifying Landsat 5 images of each sampled area, using the technique of supervised classification and a maximum similarity algorithm in program ERDAS Image 8.4 [<xref rid="pone.0141333.ref056" ref-type="bibr">56</xref>]. We calculated the minimum convex polygon (MCP) formed by the outer sampling points in each reserve, which covered on average 910.6 ha (range 433.8 to 1,334.5 ha; <xref rid="pone.0141333.t001" ref-type="table">Table 1</xref>). We added an additional buffer of about 3 km based on the mean maximum distance movement (MMDM; [<xref rid="pone.0141333.ref057" ref-type="bibr">57</xref>]) by ocelots detected in all reserves (<xref rid="pone.0141333.t001" ref-type="table">Table 1</xref>). Inside this area (MCP + MMDM buffer) we calculated the proportion of forest and road network coverage (composed mainly by unpaved roads) in each reserve. To check if the proportion of forest inside the MPC + MMDM buffer accurately represented the amount of forest available in the larger landscape around the sampled areas, we mapped the proportion of forest inside an area of 10,000 ha centered around the MPC centroid of each reserve. This fixed area was large enough to accommodate the MPC + MMDM buffer. After that we performed a Pearson Correlation test between the proportion of forest mapped inside the MPC + MMDM buffer and inside the 10,000 ha area and found that both were highly correlated (r = 0.99). From this, we assumed that the proportion of forest inside the MPC + MMDM buffer accurately represented the amount of forest in the surrounding landscape. We used these predictor variables (i.e., covariates) for the analyses.</p>
+<table-wrap id="pone.0141333.t001" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0141333.t001</object-id>
+<label>Table 1</label> <caption><title>Area covered by camera traps (minimum convex polygon—MCP—area), buffer area and effective trapping areas (ETA) based on two distances (MMDM = 2,718.61 m and ½ MMDM = 1,359.31 m) derived from camera traps in six Atlantic Forest reserves in southeastern Brazil.</title></caption>
+<alternatives>
+<graphic id="pone.0141333.t001g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.t001" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1">Reserve</th>
+<th align="center" rowspan="1" colspan="1">MCP (ha)</th>
+<th colspan="2" align="center" rowspan="1">Buffer Area (ha)</th>
+<th colspan="4" align="center" rowspan="1">ETA (ha)</th>
+</tr>
+<tr>
+<th align="left" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1">MMDM</th>
+<th align="center" rowspan="1" colspan="1">½MMDM</th>
+<th align="center" rowspan="1" colspan="1">Total Area (MMDM)</th>
+<th align="center" rowspan="1" colspan="1">Total Area (½MMDM)</th>
+<th align="center" rowspan="1" colspan="1">Forest Area (MMDM)</th>
+<th align="center" rowspan="1" colspan="1">Forest Area (½MMDM)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Fazenda Macedônia Reserve</td>
+<td align="center" rowspan="1" colspan="1">1,073.32</td>
+<td align="center" rowspan="1" colspan="1">5,910.70</td>
+<td align="center" rowspan="1" colspan="1">2,374.68</td>
+<td align="center" rowspan="1" colspan="1">6,984.02</td>
+<td align="center" rowspan="1" colspan="1">3,448.00</td>
+<td align="center" rowspan="1" colspan="1">429.48</td>
+<td align="center" rowspan="1" colspan="1">429.48</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Feliciano Miguel Abdala Reserve</td>
+<td align="center" rowspan="1" colspan="1">754.05</td>
+<td align="center" rowspan="1" colspan="1">5,545.87</td>
+<td align="center" rowspan="1" colspan="1">2,192.08</td>
+<td align="center" rowspan="1" colspan="1">6,299.92</td>
+<td align="center" rowspan="1" colspan="1">2,946.13</td>
+<td align="center" rowspan="1" colspan="1">2,237.29</td>
+<td align="center" rowspan="1" colspan="1">1,450.65</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Mata do Sossego Reserve</td>
+<td align="center" rowspan="1" colspan="1">433.83</td>
+<td align="center" rowspan="1" colspan="1">4,785.97</td>
+<td align="center" rowspan="1" colspan="1">1,812.05</td>
+<td align="center" rowspan="1" colspan="1">5,219.80</td>
+<td align="center" rowspan="1" colspan="1">2,245.88</td>
+<td align="center" rowspan="1" colspan="1">2,461.71</td>
+<td align="center" rowspan="1" colspan="1">1,454.59</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Serra do Brigadeiro State Park</td>
+<td align="center" rowspan="1" colspan="1">1,334.51</td>
+<td align="center" rowspan="1" colspan="1">6,309.67</td>
+<td align="center" rowspan="1" colspan="1">2,574.25</td>
+<td align="center" rowspan="1" colspan="1">7,644.18</td>
+<td align="center" rowspan="1" colspan="1">3,908.76</td>
+<td align="center" rowspan="1" colspan="1">3,974.50</td>
+<td align="center" rowspan="1" colspan="1">2,343.11</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Sete Salões State Park</td>
+<td align="center" rowspan="1" colspan="1">980.41</td>
+<td align="center" rowspan="1" colspan="1">6,119.87</td>
+<td align="center" rowspan="1" colspan="1">2,479.44</td>
+<td align="center" rowspan="1" colspan="1">7,100.28</td>
+<td align="center" rowspan="1" colspan="1">3,459.85</td>
+<td align="center" rowspan="1" colspan="1">3,781.25</td>
+<td align="center" rowspan="1" colspan="1">2,193.14</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Rio Doce State Park</td>
+<td align="center" rowspan="1" colspan="1">830.97</td>
+<td align="center" rowspan="1" colspan="1">5,481.00</td>
+<td align="center" rowspan="1" colspan="1">2,159.95</td>
+<td align="center" rowspan="1" colspan="1">6,311.97</td>
+<td align="center" rowspan="1" colspan="1">2,990.92</td>
+<td align="center" rowspan="1" colspan="1">3,544.83</td>
+<td align="center" rowspan="1" colspan="1">2,074.27</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>We also considered the size of each reserve for the analyses as well as the number of free-ranging domestic dogs photographed in each reserve (i.e., the number of individuals that could be uniquely identified). We identified dogs based on their specific phenotypic differences and pelage coloration [<xref rid="pone.0141333.ref029" ref-type="bibr">29</xref>]. Finally, we considered the presence of both top predators (jaguar and mountain lion), which were detected only in the largest reserve (RD). Before using these covariates in our analysis, we tested for correlation among them using a Pearson Correlation Matrix, which indicated that none of the variables were highly correlated (|r| ≤ 0.50 in all cases).</p>
+<p>We used four variables (percent of forest area, reserve size, number of free-ranging domestic dogs, and presence of both top predators; <xref rid="pone.0141333.t002" ref-type="table">Table 2</xref>) in a variance components analyses in Program MARK [<xref rid="pone.0141333.ref055" ref-type="bibr">55</xref>]. We used a variance components analyses to focus on explaining the biological process variance (<italic>δ</italic><sup><italic>2</italic></sup>), which should not be confused with the sampling variance of ocelot abundance estimates [<xref rid="pone.0141333.ref058" ref-type="bibr">58</xref>, <xref rid="pone.0141333.ref059" ref-type="bibr">59</xref>]. We estimated the percent of ocelot abundance variation explained by each variable. However, models from this analysis could not be compared using a model selection approach (e.g., AIC) because abundance (<inline-formula id="pone.0141333.e001"><alternatives><graphic id="pone.0141333.e001g" position="anchor" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.e001" xlink:type="simple"/><mml:math display="inline" id="M1" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mo>^</mml:mo></mml:mover></mml:math></alternatives></inline-formula>) is not in the likelihood in Huggins models. Therefore, we ran a mean model (intercept only) to obtain an overall estimate of process variance for each season. We then constructed additional models including each of these four variables alone for each season. We interpreted the resulting difference between the overall process variance (intercept only) and the process variance of a particular variable model as the amount of process variance explained by the variable. We also calculated the proportion of the biological variation explained as the difference divided by the overall process variance for each variable in each season.</p>
+<table-wrap id="pone.0141333.t002" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0141333.t002</object-id>
+<label>Table 2</label> <caption><title>List of covariates used to model the variation in detection probability of ocelots among reserves, specifically the percentage of land covered by road networks and Forest Area, percentage of cameras installed on unpaved roads, the number of dogs detected in the reserve, reserve size and the presence of both Top Predators.</title> <p>Forest Area, Number of Dogs, Reserve size and Presence of both Top Predators were also used to model the process variance in abundance estimates of ocelot populations in six Atlantic Forest reserves in southeastern Brazil.</p></caption>
+<alternatives>
+<graphic id="pone.0141333.t002g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.t002" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1">Reserve</th>
+<th align="center" rowspan="1" colspan="1">Road Network Coverage (%)</th>
+<th align="center" rowspan="1" colspan="1">Cameras Installed on Unpaved Roads (%)</th>
+<th align="center" rowspan="1" colspan="1">Forested Area (%)</th>
+<th align="center" rowspan="1" colspan="1">Number of Free-Ranging Domestic Dogs</th>
+<th align="center" rowspan="1" colspan="1">Reserve Size (ha)</th>
+<th align="center" rowspan="1" colspan="1">Presence of both Top Predators</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Fazenda Macedônia Reserve</td>
+<td align="center" rowspan="1" colspan="1">2.64</td>
+<td align="center" rowspan="1" colspan="1">55.00</td>
+<td align="center" rowspan="1" colspan="1">6.15</td>
+<td align="center" rowspan="1" colspan="1">18</td>
+<td align="center" rowspan="1" colspan="1">560</td>
+<td align="center" rowspan="1" colspan="1">No</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Feliciano Miguel Abdala Reserve</td>
+<td align="center" rowspan="1" colspan="1">1.27</td>
+<td align="center" rowspan="1" colspan="1">59.09</td>
+<td align="center" rowspan="1" colspan="1">35.5</td>
+<td align="center" rowspan="1" colspan="1">47</td>
+<td align="center" rowspan="1" colspan="1">958</td>
+<td align="center" rowspan="1" colspan="1">No</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Mata do Sossego Reserve</td>
+<td align="center" rowspan="1" colspan="1">0.14</td>
+<td align="center" rowspan="1" colspan="1">0.00</td>
+<td align="center" rowspan="1" colspan="1">47.14</td>
+<td align="center" rowspan="1" colspan="1">9</td>
+<td align="center" rowspan="1" colspan="1">134</td>
+<td align="center" rowspan="1" colspan="1">No</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Serra do Brigadeiro State Park</td>
+<td align="center" rowspan="1" colspan="1">0.62</td>
+<td align="center" rowspan="1" colspan="1">0.00</td>
+<td align="center" rowspan="1" colspan="1">51.98</td>
+<td align="center" rowspan="1" colspan="1">6</td>
+<td align="center" rowspan="1" colspan="1">14,985</td>
+<td align="center" rowspan="1" colspan="1">No</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Sete Salões State Park</td>
+<td align="center" rowspan="1" colspan="1">0.00</td>
+<td align="center" rowspan="1" colspan="1">3.85</td>
+<td align="center" rowspan="1" colspan="1">53.21</td>
+<td align="center" rowspan="1" colspan="1">16</td>
+<td align="center" rowspan="1" colspan="1">12,520</td>
+<td align="center" rowspan="1" colspan="1">No</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Rio Doce State Park</td>
+<td align="center" rowspan="1" colspan="1">0.65</td>
+<td align="center" rowspan="1" colspan="1">35.00</td>
+<td align="center" rowspan="1" colspan="1">56.12</td>
+<td align="center" rowspan="1" colspan="1">0</td>
+<td align="center" rowspan="1" colspan="1">35,970</td>
+<td align="center" rowspan="1" colspan="1">Yes</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>We calculated ocelot density by dividing <inline-formula id="pone.0141333.e002"><alternatives><graphic id="pone.0141333.e002g" position="anchor" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.e002" xlink:type="simple"/><mml:math display="inline" id="M2" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mo>^</mml:mo></mml:mover></mml:math></alternatives></inline-formula> by the effective trapping area (ETA) in each reserve (<xref rid="pone.0141333.t001" ref-type="table">Table 1</xref>). However, the estimated abundance of ocelots (<inline-formula id="pone.0141333.e003"><alternatives><graphic id="pone.0141333.e003g" position="anchor" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.e003" xlink:type="simple"/><mml:math display="inline" id="M3" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mo>^</mml:mo></mml:mover></mml:math></alternatives></inline-formula>) in one small reserve (FMA) was not reliable because we only recorded a single ocelot in each season and detection probabilities were very low (see <xref rid="sec008" ref-type="sec">Results</xref>). When the detection probability for rare and elusive carnivores is low (≤ 0.10) and each individual in the population is detected less than 2.5 times, the Huggins model has difficulty estimating abundance accurately [<xref rid="pone.0141333.ref060" ref-type="bibr">60</xref>]. Therefore, we used the observed abundance of ocelot to estimate density in FMA. We considered four different levels of ETA to estimate ocelot density (<xref rid="pone.0141333.t001" ref-type="table">Table 1</xref>): MMDM buffer + MCP; ½ MMDM + MCP, and actual forest area within each of these previous levels of ETA. We considered forest area in calculating ocelot density because ocelots are considered a forest dependent species [<xref rid="pone.0141333.ref024" ref-type="bibr">24</xref>,<xref rid="pone.0141333.ref040" ref-type="bibr">40</xref>, <xref rid="pone.0141333.ref061" ref-type="bibr">61</xref>]. Although MMDM has been considered a more accurate approach than ½ MMDM for estimating the area effectively sampled by cameras [<xref rid="pone.0141333.ref034" ref-type="bibr">34</xref>,<xref rid="pone.0141333.ref062" ref-type="bibr">62</xref>, <xref rid="pone.0141333.ref063" ref-type="bibr">63</xref>], we also used the latter for two reasons. First, to make comparisons with other studies. Second, given the size of our MCPs, we judge the ½ MMDM may portray more faithfully the area of influence around the camera traps [<xref rid="pone.0141333.ref062" ref-type="bibr">62</xref>]. In one small reserve (MS), for example, the MMDM was almost ten times larger than the area sampled by cameras (MPC; <xref rid="pone.0141333.t001" ref-type="table">Table 1</xref>) and, therefore, the MMDM may underestimate the ocelot density for this reserve. We calculate the polygons, buffers, and ETA using ArcGIS 9.2 [<xref rid="pone.0141333.ref049" ref-type="bibr">49</xref>].</p>
+<p>Additionally, we modelled detection (<italic>p</italic>) and recapture (<italic>c</italic>) probabilities to estimate abundance (<inline-formula id="pone.0141333.e004"><alternatives><graphic id="pone.0141333.e004g" position="anchor" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.e004" xlink:type="simple"/><mml:math display="inline" id="M4" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mo>^</mml:mo></mml:mover></mml:math></alternatives></inline-formula>) for each season in each reserve. We considered detection structures with the effects of behavior (trap shy), sex (male vs female), season (dry vs wet), presence of both top predators (reserve with both predators -largest reserve; RD- vs other reserves; <xref rid="pone.0141333.t002" ref-type="table">Table 2</xref>), landscape features (percent of forest area, percent of road network coverage and reserve size), PAs (or reserves), number of free-ranging domestic dogs and percent of cameras installed on unpaved roads (<xref rid="pone.0141333.t002" ref-type="table">Table 2</xref>).</p>
+</sec>
+<sec id="sec007">
+<title>Model selection and assumptions</title>
+<p>We considered detection probabilities structures with all possible additive combinations of reserve (or covariates associated with each reserve), trap effect, season, and sex. We used Akaike's Information Criterion adjusted for small sample size (AICc), the relative AICc difference among models (ΔAICc), and associated model weights (AICc weights) to assess strength of candidate models [<xref rid="pone.0141333.ref064" ref-type="bibr">64</xref>]. This strategy resulted in a balanced model set and allowed us to calculate the cumulative AICc weights for each predictor variable [<xref rid="pone.0141333.ref065" ref-type="bibr">65</xref>]. Because of model selection uncertainty, we calculated model-averaged estimates of detection probability and abundance [<xref rid="pone.0141333.ref064" ref-type="bibr">64</xref>].</p>
+<p>We examined violations of assumptions for closed population capture-recapture models [<xref rid="pone.0141333.ref066" ref-type="bibr">66</xref>]. We used the median <inline-formula id="pone.0141333.e005"><alternatives><graphic id="pone.0141333.e005g" position="anchor" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.e005" xlink:type="simple"/><mml:math display="inline" id="M5" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mo>^</mml:mo></mml:mover></mml:math></alternatives></inline-formula> goodness-of-fit approach in Program MARK [<xref rid="pone.0141333.ref067" ref-type="bibr">67</xref>], which indicates no overdispersion (or independence among the sampled ocelots) when the <inline-formula id="pone.0141333.e006"><alternatives><graphic id="pone.0141333.e006g" position="anchor" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.e006" xlink:type="simple"/><mml:math display="inline" id="M6" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mo>^</mml:mo></mml:mover></mml:math></alternatives></inline-formula> value is close to “1”. Our models assume that the population is closed geographically–no movement on or off the study area–and demographically–no births or deaths [<xref rid="pone.0141333.ref066" ref-type="bibr">66</xref>]. We tested for closure using the POPAN model in Program MARK, which allowed us to analyze the survival (<italic>phi</italic>) or egress (1 –<italic>phi</italic>) and ingress rates (<italic>pent</italic>) among capture occasions [<xref rid="pone.0141333.ref068" ref-type="bibr">68</xref>]. Using ΔAICc we compared models in which <italic>phi</italic> and <italic>pent</italic> parameters were fixed as “1” and “0” respectively (i.e., no egress or ingress) to models that allowed egress and ingress to vary to assess whether closure was achieved.</p>
+</sec>
+</sec>
+<sec id="sec008" sec-type="results">
+<title>Results</title>
+<p>We did not detect overdispersion (<inline-formula id="pone.0141333.e007"><alternatives><graphic id="pone.0141333.e007g" position="anchor" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.e007" xlink:type="simple"/><mml:math display="inline" id="M7" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mo>^</mml:mo></mml:mover></mml:math></alternatives></inline-formula> = 1.06 with 95% CI = 0.90–1.23) and our closure test revealed no violation (ΔAICc of the model without closure = 3.00).</p>
+<p>The largest State Park (RD) and one small private reserve (FM) had the highest abundance and density estimates of ocelots (<xref rid="pone.0141333.t003" ref-type="table">Table 3</xref>). Another small private reserve (FMA) had the lowest abundance and density estimates of ocelots among all reserves (<xref rid="pone.0141333.t003" ref-type="table">Table 3</xref>) and one medium-sized reserve (SS) had the lowest abundance and density estimates of ocelots among the State Parks; no ocelots were detected there during the wet season (<xref rid="pone.0141333.t003" ref-type="table">Table 3</xref>). When we look at the confidence intervals, however, we noticed that abundances and densities were similar among all areas, except for RD (<xref rid="pone.0141333.t003" ref-type="table">Table 3</xref>).</p>
+<table-wrap id="pone.0141333.t003" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0141333.t003</object-id>
+<label>Table 3</label> <caption><title>Abundance and density estimates for ocelots derived from camera-trap studies conducted in six Atlantic forest reserves, southeastern Brazil.</title></caption>
+<alternatives>
+<graphic id="pone.0141333.t003g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.t003" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1"><bold>Reserve</bold></th>
+<th align="center" rowspan="1" colspan="1">Season</th>
+<th align="center" rowspan="1" colspan="1">Abundance (±95% CI)</th>
+<th colspan="4" align="center" rowspan="1">Density (ocelots/km<sup>2</sup>± 95% CI)</th>
+</tr>
+<tr>
+<th align="left" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1">MMDM</th>
+<th align="center" rowspan="1" colspan="1">½ MMDM</th>
+<th align="center" rowspan="1" colspan="1">Forest MMDM</th>
+<th align="center" rowspan="1" colspan="1">½ Forest MMDM</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Fazenda Macedônia Reserve</td>
+<td align="center" rowspan="1" colspan="1">Dry</td>
+<td align="center" rowspan="1" colspan="1">5.04 (4.65–5.42)</td>
+<td align="center" rowspan="1" colspan="1">0.07 (0.07–0.08)</td>
+<td align="center" rowspan="1" colspan="1">0.15 (0.14–0.16)</td>
+<td align="center" rowspan="1" colspan="1">1.17 (1.08–1.26)</td>
+<td align="center" rowspan="1" colspan="1">1.17 (1.08–1.26)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="center" rowspan="1" colspan="1">Wet</td>
+<td align="center" rowspan="1" colspan="1">4.04 (3.62–4.46)</td>
+<td align="center" rowspan="1" colspan="1">0.06 (0.05–0.06)</td>
+<td align="center" rowspan="1" colspan="1">0.12 (0.11–0.13)</td>
+<td align="center" rowspan="1" colspan="1">0.94 (0.84–1.04)</td>
+<td align="center" rowspan="1" colspan="1">0.94 (0.84–1.04)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Feliciano Miguel Abdala Reserve</td>
+<td align="center" rowspan="1" colspan="1">Dry</td>
+<td align="center" rowspan="1" colspan="1">1</td>
+<td align="center" rowspan="1" colspan="1">0.02</td>
+<td align="center" rowspan="1" colspan="1">0.03</td>
+<td align="center" rowspan="1" colspan="1">0.05</td>
+<td align="center" rowspan="1" colspan="1">0.07</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="center" rowspan="1" colspan="1">Wet</td>
+<td align="center" rowspan="1" colspan="1">1</td>
+<td align="center" rowspan="1" colspan="1">0.02</td>
+<td align="center" rowspan="1" colspan="1">0.03</td>
+<td align="center" rowspan="1" colspan="1">0.05</td>
+<td align="center" rowspan="1" colspan="1">0.07</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Mata do Sossego Reserve</td>
+<td align="center" rowspan="1" colspan="1">Dry</td>
+<td align="center" rowspan="1" colspan="1">3.20 (2.18–4.22)</td>
+<td align="center" rowspan="1" colspan="1">0.06 (0.04–0.08)</td>
+<td align="center" rowspan="1" colspan="1">0.14 (0.10–0.19)</td>
+<td align="center" rowspan="1" colspan="1">0.13 (0.09–0.17)</td>
+<td align="center" rowspan="1" colspan="1">0.22 (0.15–0.29)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="center" rowspan="1" colspan="1">Wet</td>
+<td align="center" rowspan="1" colspan="1">1.07 (0.48–1.67)</td>
+<td align="center" rowspan="1" colspan="1">0.02 (0.01–0.03)</td>
+<td align="center" rowspan="1" colspan="1">0.05 (0.02–0.07)</td>
+<td align="center" rowspan="1" colspan="1">0.04 (0.02–0.07)</td>
+<td align="center" rowspan="1" colspan="1">0.07 (0.03–0.12)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Serra do Brigadeiro State Park</td>
+<td align="center" rowspan="1" colspan="1">Dry</td>
+<td align="center" rowspan="1" colspan="1">3.49 (1.79–5.19)</td>
+<td align="center" rowspan="1" colspan="1">0.05 (0.02–0.07)</td>
+<td align="center" rowspan="1" colspan="1">0.09 (0.05–0.13)</td>
+<td align="center" rowspan="1" colspan="1">0.09 (0.05–0.13)</td>
+<td align="center" rowspan="1" colspan="1">0.15 (0.08–0.22)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="center" rowspan="1" colspan="1">Wet</td>
+<td align="center" rowspan="1" colspan="1">4.70 (2.59–6.82)</td>
+<td align="center" rowspan="1" colspan="1">0.06 (0.03–0.09)</td>
+<td align="center" rowspan="1" colspan="1">0.12 (0.07–0.17)</td>
+<td align="center" rowspan="1" colspan="1">0.12 (0.07–0.17)</td>
+<td align="center" rowspan="1" colspan="1">0.20 (0.11–0.29)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Sete Salões State Park</td>
+<td align="center" rowspan="1" colspan="1">Dry</td>
+<td align="center" rowspan="1" colspan="1">2.21 (1.16–3.26)</td>
+<td align="center" rowspan="1" colspan="1">0.03 (0.02–0.05)</td>
+<td align="center" rowspan="1" colspan="1">0.06 (0.03–0.09)</td>
+<td align="center" rowspan="1" colspan="1">0.06 (0.03–0.09)</td>
+<td align="center" rowspan="1" colspan="1">0.10 (0.05–0.15)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="center" rowspan="1" colspan="1">Wet</td>
+<td align="center" rowspan="1" colspan="1">0</td>
+<td align="center" rowspan="1" colspan="1">0</td>
+<td align="center" rowspan="1" colspan="1">0</td>
+<td align="center" rowspan="1" colspan="1">0</td>
+<td align="center" rowspan="1" colspan="1">0</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Rio Doce State Park</td>
+<td align="center" rowspan="1" colspan="1">Dry</td>
+<td align="center" rowspan="1" colspan="1">8.39 (5.28–11.51)</td>
+<td align="center" rowspan="1" colspan="1">0.13 (0.08–0.18)</td>
+<td align="center" rowspan="1" colspan="1">0.28 (0.18–0.39)</td>
+<td align="center" rowspan="1" colspan="1">0.24 (0.15–0.33)</td>
+<td align="center" rowspan="1" colspan="1">0.41 (0.26–0.56)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="center" rowspan="1" colspan="1">Wet</td>
+<td align="center" rowspan="1" colspan="1">8.51(5.26–11.76)</td>
+<td align="center" rowspan="1" colspan="1">0.14 (0.08–0.19)</td>
+<td align="center" rowspan="1" colspan="1">0.29 (0.18–0.39)</td>
+<td align="center" rowspan="1" colspan="1">0.24 (0.15–0.33)</td>
+<td align="center" rowspan="1" colspan="1">0.41 (0.25–0.57)</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>Reserve size, presence of both top predators and number of free-ranging domestic dogs all contributed to explaining variance of ocelot abundance (<xref rid="pone.0141333.t004" ref-type="table">Table 4</xref>); ocelot abundance responded positively to reserve size and to presence of both top predators and negatively to abundance of free-ranging domestic dogs (<xref rid="pone.0141333.t004" ref-type="table">Table 4</xref>). Further, the amount of variance explained by each of these variables varied seasonally (<xref rid="pone.0141333.t004" ref-type="table">Table 4</xref>). The precision of these variance estimates were low (e.g., overlapping confidence intervals), suggesting that the differences in variance explained, both among variables and between seasons, should be considered with care.</p>
+<table-wrap id="pone.0141333.t004" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0141333.t004</object-id>
+<label>Table 4</label> <caption><title>The percent of biological process variation in ocelot abundance explained by four reserve variables among six Atlantic Forest reserves in southeastern Brazil.</title>
+<p>Negative process variances were considered zero. See <xref rid="sec002" ref-type="sec">Methods</xref> for details.</p>
+</caption>
+<alternatives>
+<graphic id="pone.0141333.t004g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.t004" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1">Variables</th>
+<th colspan="3" align="center" rowspan="1">Dry Season</th>
+<th colspan="3" align="center" rowspan="1">Wet Season</th>
+</tr>
+<tr>
+<th align="center" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1">δ<sup>2</sup> Variance (±95% CI)</th>
+<th align="center" rowspan="1" colspan="1">Beta Values (±95% CI)</th>
+<th align="center" rowspan="1" colspan="1">% of Variation Explained</th>
+<th align="center" rowspan="1" colspan="1">δ<sup>2</sup> Variance (±95% CI)</th>
+<th align="center" rowspan="1" colspan="1">Beta Values (±95% CI)</th>
+<th align="center" rowspan="1" colspan="1">% of Variation Explained</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Intercept only model</td>
+<td align="center" rowspan="1" colspan="1">4.96 (1.62–32.87)</td>
+<td align="center" rowspan="1" colspan="1">3.61 (1.75–5.47)</td>
+<td align="center" rowspan="1" colspan="1">-</td>
+<td align="center" rowspan="1" colspan="1">7.33 (2.03–68.25)</td>
+<td align="center" rowspan="1" colspan="1">3.53 (1.04–6.01)</td>
+<td align="center" rowspan="1" colspan="1">-</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Reserve Size</td>
+<td align="center" rowspan="1" colspan="1">3.05 (1.02–26.19)</td>
+<td align="center" rowspan="1" colspan="1">0.1x10<sup>-3</sup> (-0.3x10<sup>-5</sup>–0.3x10<sup>-3</sup>)</td>
+<td align="center" rowspan="1" colspan="1">38.59</td>
+<td align="center" rowspan="1" colspan="1">1.34 (0.39–19.46)</td>
+<td align="center" rowspan="1" colspan="1">0.2x10<sup>-3</sup> (0.8x10<sup>-4</sup>–0.3x10<sup>-3</sup>)</td>
+<td align="center" rowspan="1" colspan="1">81.73</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Presence of both Top Predators</td>
+<td align="center" rowspan="1" colspan="1">2.11 (0.73–17.76)</td>
+<td align="center" rowspan="1" colspan="1">4.81 (1.08–8.53)</td>
+<td align="center" rowspan="1" colspan="1">57.47</td>
+<td align="center" rowspan="1" colspan="1">3.19 (0.87–47.81)</td>
+<td align="center" rowspan="1" colspan="1">5.34 (0.65–10.04)</td>
+<td align="center" rowspan="1" colspan="1">56.50</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Number of Domestic Dogs</td>
+<td align="center" rowspan="1" colspan="1">3.33 (0.95–30.86)</td>
+<td align="center" rowspan="1" colspan="1">-0.09 (-0.19–0.01)</td>
+<td align="center" rowspan="1" colspan="1">32.90</td>
+<td align="center" rowspan="1" colspan="1">5.74 (1.46–88.41)</td>
+<td align="center" rowspan="1" colspan="1">-0.09 (-0.23–0.04)</td>
+<td align="center" rowspan="1" colspan="1">21.63</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Percent of Forest</td>
+<td align="center" rowspan="1" colspan="1">5.57 (1.91–56.89)</td>
+<td align="center" rowspan="1" colspan="1">-0.4x10<sup>-2</sup> (-0.12–0.11)</td>
+<td align="center" rowspan="1" colspan="1">0</td>
+<td align="center" rowspan="1" colspan="1">8.38 (2.53–143.52)</td>
+<td align="center" rowspan="1" colspan="1">0.03 (-0.11–0.18)</td>
+<td align="center" rowspan="1" colspan="1">0</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>Overall, the most parsimonious model in our candidate set indicated that the detection probability of ocelots varied among reserves (<xref rid="pone.0141333.t005" ref-type="table">Table 5</xref>). Based on this model, detection probability of ocelots was higher in two small reserves (FM and MS), and lower in one small reserve (FMA) and in the largest reserve (RD; <xref rid="pone.0141333.g002" ref-type="fig">Fig 2</xref>). Of the reserve covariates used to model detection, the percent of forest was the only covariate that had more influence (cumulative AICc weights = 39.37%) on ocelot detection; the percent of forest had a negative relationship (β = -0.02 ± SE 0.01) with ocelot detection (<xref rid="pone.0141333.t006" ref-type="table">Table 6</xref>). As expected, detection probability of ocelots was lower in more forested reserves, such as RD (<xref rid="pone.0141333.t002" ref-type="table">Table 2</xref>; <xref rid="pone.0141333.g002" ref-type="fig">Fig 2</xref>), and higher in reserves with a lower proportion of forest cover, such as FM and MS (<xref rid="pone.0141333.t002" ref-type="table">Table 2</xref>; <xref rid="pone.0141333.g002" ref-type="fig">Fig 2</xref><bold>)</bold>. The detection probability of ocelots in FM, for example, was more than two times higher than in RD (<xref rid="pone.0141333.g002" ref-type="fig">Fig 2</xref>), which has the highest forested area among all reserves (<xref rid="pone.0141333.t002" ref-type="table">Table 2</xref>), but precision was low (large confidence intervals) due to small sample sizes (<xref rid="pone.0141333.g002" ref-type="fig">Fig 2</xref>). Although behavior, seasonality and sex had some influence on ocelot detection, they had low cumulative AICc weights (&lt; 35%; <xref rid="pone.0141333.t006" ref-type="table">Table 6</xref>). Road network coverage, reserve size, presence of both top predators, percent of cameras installed on unpaved roads and number of free-ranging domestic dogs had, respectively, the lowest cumulative AICc weights (&lt; 6%) among the variables tested (<xref rid="pone.0141333.t006" ref-type="table">Table 6</xref>).</p>
+<fig id="pone.0141333.g002" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0141333.g002</object-id>
+<label>Fig 2</label>
+<caption>
+<title>Model-averaged estimates of ocelot detection probabilities (<italic>p</italic>; ± 95% CI) in six Atlantic Forest reserves, southeastern Brazil.</title>
+<p>FM = Fazenda Macedônia Reserve; FMA = Feliciano Miguel Abdala Reserve; MS = Mata do Sossego Reserve; SB = Serra do Brigadeiro State Park; SS = Sete Salões State Park; RD = Rio Doce State Park.</p>
+</caption>
+<graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.g002" position="float" xlink:type="simple"/>
+</fig>
+<table-wrap id="pone.0141333.t005" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0141333.t005</object-id>
+<label>Table 5</label> <caption><title>Model selection results for variables expected to influence ocelot detection probability in six Atlantic Forest reserves in southeastern Brazil.</title> <p>Only models with an AICc weights ≥ 0.01 are presented here.</p></caption>
+<alternatives>
+<graphic id="pone.0141333.t005g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.t005" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1">Model<xref rid="t005fn001" ref-type="table-fn"><sup>*</sup></xref></th>
+<th align="center" rowspan="1" colspan="1">AICc</th>
+<th align="center" rowspan="1" colspan="1">ΔAICc</th>
+<th align="center" rowspan="1" colspan="1">AICc Weights</th>
+<th align="center" rowspan="1" colspan="1">Parameters</th>
+<th align="center" rowspan="1" colspan="1">Deviance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Reserve) = c(Reserve)</td>
+<td align="center" rowspan="1" colspan="1">353.86</td>
+<td align="center" rowspan="1" colspan="1">0.00</td>
+<td align="center" rowspan="1" colspan="1">0.17</td>
+<td align="center" rowspan="1" colspan="1">6</td>
+<td align="center" rowspan="1" colspan="1">341.58</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Reserve) c(Reserve)</td>
+<td align="center" rowspan="1" colspan="1">354.63</td>
+<td align="center" rowspan="1" colspan="1">0.77</td>
+<td align="center" rowspan="1" colspan="1">0.11</td>
+<td align="center" rowspan="1" colspan="1">7</td>
+<td align="center" rowspan="1" colspan="1">340.25</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Forest) = c(Forest)</td>
+<td align="center" rowspan="1" colspan="1">354.77</td>
+<td align="center" rowspan="1" colspan="1">0.91</td>
+<td align="center" rowspan="1" colspan="1">0.11</td>
+<td align="center" rowspan="1" colspan="1">2</td>
+<td align="center" rowspan="1" colspan="1">350.73</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Forest+Sex) = c(Forest+Sex)</td>
+<td align="center" rowspan="1" colspan="1">355.66</td>
+<td align="center" rowspan="1" colspan="1">1.80</td>
+<td align="center" rowspan="1" colspan="1">0.07</td>
+<td align="center" rowspan="1" colspan="1">3</td>
+<td align="center" rowspan="1" colspan="1">349.58</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Forest+Season) = c(Forest+Season)</td>
+<td align="center" rowspan="1" colspan="1">355.92</td>
+<td align="center" rowspan="1" colspan="1">2.06</td>
+<td align="center" rowspan="1" colspan="1">0.06</td>
+<td align="center" rowspan="1" colspan="1">3</td>
+<td align="center" rowspan="1" colspan="1">349.84</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Reserve+Season) = c(Reserve+Season)</td>
+<td align="center" rowspan="1" colspan="1">355.97</td>
+<td align="center" rowspan="1" colspan="1">2.11</td>
+<td align="center" rowspan="1" colspan="1">0.06</td>
+<td align="center" rowspan="1" colspan="1">7</td>
+<td align="center" rowspan="1" colspan="1">341.59</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Forest) c(Forest)</td>
+<td align="center" rowspan="1" colspan="1">356.16</td>
+<td align="center" rowspan="1" colspan="1">2.30</td>
+<td align="center" rowspan="1" colspan="1">0.05</td>
+<td align="center" rowspan="1" colspan="1">3</td>
+<td align="center" rowspan="1" colspan="1">350.08</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Reserve+Sex) = c(Reserve+Sex)</td>
+<td align="center" rowspan="1" colspan="1">356.25</td>
+<td align="center" rowspan="1" colspan="1">2.39</td>
+<td align="center" rowspan="1" colspan="1">0.05</td>
+<td align="center" rowspan="1" colspan="1">7</td>
+<td align="center" rowspan="1" colspan="1">341.87</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Reserve+Season) c(Reserve+Season)</td>
+<td align="center" rowspan="1" colspan="1">356.51</td>
+<td align="center" rowspan="1" colspan="1">2.65</td>
+<td align="center" rowspan="1" colspan="1">0.04</td>
+<td align="center" rowspan="1" colspan="1">8</td>
+<td align="center" rowspan="1" colspan="1">340.03</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Forest+Sex) c(Forest+Sex)</td>
+<td align="center" rowspan="1" colspan="1">356.78</td>
+<td align="center" rowspan="1" colspan="1">2.92</td>
+<td align="center" rowspan="1" colspan="1">0.04</td>
+<td align="center" rowspan="1" colspan="1">4</td>
+<td align="center" rowspan="1" colspan="1">348.64</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Forest+Season+Sex) = c(Forest+Season+Sex)</td>
+<td align="center" rowspan="1" colspan="1">356.78</td>
+<td align="center" rowspan="1" colspan="1">2.92</td>
+<td align="center" rowspan="1" colspan="1">0.04</td>
+<td align="center" rowspan="1" colspan="1">4</td>
+<td align="center" rowspan="1" colspan="1">348.65</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Reserve+Sex) c(Reserve+Sex)</td>
+<td align="center" rowspan="1" colspan="1">357.23</td>
+<td align="center" rowspan="1" colspan="1">3.37</td>
+<td align="center" rowspan="1" colspan="1">0.03</td>
+<td align="center" rowspan="1" colspan="1">8</td>
+<td align="center" rowspan="1" colspan="1">340.75</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Forest+Season) c(Forest+Season)</td>
+<td align="center" rowspan="1" colspan="1">357.33</td>
+<td align="center" rowspan="1" colspan="1">3.47</td>
+<td align="center" rowspan="1" colspan="1">0.03</td>
+<td align="center" rowspan="1" colspan="1">4</td>
+<td align="center" rowspan="1" colspan="1">349.20</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Reserve+Season+Sex) = c(Reserve+Season+Sex)</td>
+<td align="center" rowspan="1" colspan="1">357.55</td>
+<td align="center" rowspan="1" colspan="1">3.69</td>
+<td align="center" rowspan="1" colspan="1">0.03</td>
+<td align="center" rowspan="1" colspan="1">8</td>
+<td align="center" rowspan="1" colspan="1">341.06</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">p(Reserve size) = c(Reserve size)</td>
+<td align="center" rowspan="1" colspan="1">358.72</td>
+<td align="center" rowspan="1" colspan="1">4.86</td>
+<td align="center" rowspan="1" colspan="1">0.01</td>
+<td align="center" rowspan="1" colspan="1">2</td>
+<td align="center" rowspan="1" colspan="1">354.68</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t005fn001"><p><sup>*</sup> The detection (<italic>p</italic>) and recapture (<italic>c</italic>) probability of ocelots modeled as function of: each reserve (Reserve); proportion of forest in each reserve (Forest); reserve size in ha (Reserve size); males and females (Sex) and; Season (Dry vs Wet). The equal signal (=) indicates that <italic>p</italic> and <italic>c</italic> have the same values for detection probability. The plus signal (+) means an additive effect between two or more tested variables.</p></fn>
+</table-wrap-foot>
+</table-wrap>
+<table-wrap id="pone.0141333.t006" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0141333.t006</object-id>
+<label>Table 6</label> <caption><title>Cumulative AICc weights for variables used to model ocelot detection probabilities in six Atlantic Forest reserves in southeastern Brazil.</title></caption>
+<alternatives>
+<graphic id="pone.0141333.t006g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.t006" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1">Variables</th>
+<th align="center" rowspan="1" colspan="1">Cumulative AICc Weights (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Reserve</td>
+<td align="center" rowspan="1" colspan="1">49.10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Forested Area (%)</td>
+<td align="center" rowspan="1" colspan="1">39.37</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Behavior Effect (trap shy)</td>
+<td align="center" rowspan="1" colspan="1">34.62</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Seasonality Effect (Dry vs Wet)</td>
+<td align="center" rowspan="1" colspan="1">29.39</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Sex Effect</td>
+<td align="center" rowspan="1" colspan="1">29.17</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Road Network Coverage (%)</td>
+<td align="center" rowspan="1" colspan="1">5.20</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Reserve Size (ha)</td>
+<td align="center" rowspan="1" colspan="1">5.02</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Presence of both Top Predators</td>
+<td align="center" rowspan="1" colspan="1">1.11</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">% of Cameras Installed on Unpaved Roads</td>
+<td align="center" rowspan="1" colspan="1">0.10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Number of Free-Ranging Domestic Dogs</td>
+<td align="center" rowspan="1" colspan="1">0.08</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+</sec>
+<sec id="sec009" sec-type="conclusions">
+<title>Discussion</title>
+<p>Contrary to our expectations, we did not find higher abundance and density in fragments where the top predators were absent or rare. Rather, the presence of both top predators (jaguar and mountain lion) in the largest reserve (RD) correlated positively with an increased abundance of ocelots, especially during the dry season. Top predators may increase the area of forest by controlling the herbivory rates [<xref rid="pone.0141333.ref069" ref-type="bibr">69</xref>, <xref rid="pone.0141333.ref070" ref-type="bibr">70</xref>], which might increase ocelot abundance because this species is dependent to canopy cover [<xref rid="pone.0141333.ref024" ref-type="bibr">24</xref>, <xref rid="pone.0141333.ref025" ref-type="bibr">25</xref>]. In addition, high abundance and densities of territorial carnivores may positively correlate to prey density [<xref rid="pone.0141333.ref071" ref-type="bibr">71</xref>]. Jaguars, for example, were found only in RD and their presence may be related to a higher diversity of prey for this species, especially those of large body size, such as deer (<italic>Mazama americana</italic>) and collared peccary (<italic>Pecari tajacu</italic>) [<xref rid="pone.0141333.ref072" ref-type="bibr">72</xref>]. Our other study areas have less forest area and prey densities may not allow for ocelot, jaguar and mountain lion coexistence. In other words, the positive relationship between jaguars and ocelots might result from the fact that jaguar presence means better habitat for ocelots [<xref rid="pone.0141333.ref028" ref-type="bibr">28</xref>, <xref rid="pone.0141333.ref073" ref-type="bibr">73</xref>] and for other carnivores. Jaguar abundance was positively related with mountain lion occupancy in the Cerrado of Central Brazil [<xref rid="pone.0141333.ref074" ref-type="bibr">74</xref>], and another study indicated that coexistence of both top predators are mediated mainly by food resources [<xref rid="pone.0141333.ref075" ref-type="bibr">75</xref>]. The presence of top predators, especially the jaguar in the Atlantic Forest, may be key in controlling the food chain and maintain prey availability in an ecosystem [<xref rid="pone.0141333.ref009" ref-type="bibr">9</xref>, <xref rid="pone.0141333.ref076" ref-type="bibr">76</xref>].</p>
+<p>Alternatively, jaguar occurrence may be positively correlated with ocelot abundance or density through the predation and/or harassment of potential ocelot competitors. We found a negative influence of dogs on ocelot abundance; the highest ocelot abundance was found in the largest reserve (RD) where we did not detect dogs. Therefore, the presence of jaguars may reduce the abundance of domestic dogs in a reserve via predation or interference competition [<xref rid="pone.0141333.ref077" ref-type="bibr">77</xref>]. Although domestic dogs did not exhibit a direct influence on the detection probability of ocelots, this exotic species may decrease prey availability [<xref rid="pone.0141333.ref078" ref-type="bibr">78</xref>] especially in small reserves, such as in FMA.</p>
+<p>In a recent study, Paschoal et al. [<xref rid="pone.0141333.ref029" ref-type="bibr">29</xref>] found approximately 40 domestic dogs in FMA at a density about six times higher than that of ocelots, suggesting potential deleterious effects on ocelots. The current estimate of dog abundance in FMA seems to be almost two times higher (Paschoal et al., in prep.) than the abundances considered here (<xref rid="pone.0141333.t002" ref-type="table">Table 2</xref>), which suggest that the influence of domestic dogs on the ocelot ecology could be stronger. For example, domestic dogs were also responsible for negatively affecting ocelot use (or distribution) in the same reserves of Atlantic Forest (Massara et al., in prep.) as well as the distribution of other felids in this biome, such as the margay (<italic>Leopardus wiedii</italic>) and the oncilla (<italic>Leopardus tigrinus</italic>) [<xref rid="pone.0141333.ref079" ref-type="bibr">79</xref>]. However, we do not know exactly the ecological mechanisms behind domestic dog occurrence that resulted in a decreasing on ocelot abundance in the studied reserves. These dogs are classified as rural free-ranging domestic dogs, which are owned or peripherally associated with human settlements but are not confined in a restrict area [<xref rid="pone.0141333.ref080" ref-type="bibr">80</xref>]. Although considered weak competitors, they may become important competitors and predators of wildlife because high densities of these dogs are subsidized by humans that live near natural habitats [<xref rid="pone.0141333.ref078" ref-type="bibr">78</xref>, <xref rid="pone.0141333.ref080" ref-type="bibr">80</xref>]. Additionally, these dogs cause a variety of impacts apart from direct predation on wildlife, including the spread of disease [<xref rid="pone.0141333.ref081" ref-type="bibr">81</xref>]. At the same time, domestic dogs can exert more intrusive edge effects in more fragmented and smaller reserves, which are surrounded by a high density of human settlements and human-modified habitats, such as agricultural lands [<xref rid="pone.0141333.ref080" ref-type="bibr">80</xref>, <xref rid="pone.0141333.ref082" ref-type="bibr">82</xref>]. In these reserves, these dogs can even form packs and explore natural areas, which make their impacts even higher upon medium- to large- sized mammals [<xref rid="pone.0141333.ref029" ref-type="bibr">29</xref>]. It may explain, for example, the high dog abundance and low ocelot abundance in smaller reserves, such as in FMA, which is dominated and surrounded by agriculture and human habitations. However, little is known about the variables that may indeed facilitate dog entrance in Brazilian natural areas or their direct effects on different species [<xref rid="pone.0141333.ref029" ref-type="bibr">29</xref>, <xref rid="pone.0141333.ref079" ref-type="bibr">79</xref>, <xref rid="pone.0141333.ref083" ref-type="bibr">83</xref>]. As domestic dogs are one of the most commonly recorded mammal species in the Atlantic Forest [<xref rid="pone.0141333.ref029" ref-type="bibr">29</xref>, <xref rid="pone.0141333.ref079" ref-type="bibr">79</xref>, <xref rid="pone.0141333.ref084" ref-type="bibr">84</xref>], managers of protected areas should start acting to mitigate or eliminate this hazard.</p>
+<p>Reserve size also correlated positively with abundance of ocelots. Though it is difficult to compare densities among studies due to the lack of a standard sampling protocols and the inconsistency in quantifying the effective trapping area [<xref rid="pone.0141333.ref062" ref-type="bibr">62</xref>, <xref rid="pone.0141333.ref085" ref-type="bibr">85</xref>], we found that larger areas usually have higher ocelot abundances and densities in the Atlantic Forest remnants (<xref rid="pone.0141333.t007" ref-type="table">Table 7</xref>). Further, reserve size was negatively correlated (r = -0.92) with the edge ratio of each reserve, which suggests that our largest reserve (RD) may provide better quality of habitat for wildlife and suffer less edge effects, such as those exerted by the exotic species (e.g., domestic dogs).The proportion of forested area, however, did not positively correlate with ocelot abundance in the reserves. We suspect that it might be a reflection of one sampled reserve (i.e., Fazenda Macedônia; FM).</p>
+<table-wrap id="pone.0141333.t007" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0141333.t007</object-id>
+<label>Table 7</label> <caption><title>Abundance and density estimates for ocelots derived from camera-trap studies conducted in Atlantic forest sites.</title> <p>Estimates are provided for two levels of buffers (MMDM, ½MMDM) according to their availability in each study. Ninety-five percent confidence intervals (95% CI) are presented, unless not included in a study.</p></caption>
+<alternatives>
+<graphic id="pone.0141333.t007g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0141333.t007" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1">Reserve</th>
+<th align="center" rowspan="1" colspan="1">Country</th>
+<th align="center" rowspan="1" colspan="1">Season</th>
+<th align="center" rowspan="1" colspan="1">Sampling Effort (Trap—days)</th>
+<th align="center" rowspan="1" colspan="1">Area (ha)</th>
+<th align="center" rowspan="1" colspan="1">Abundance (± 95% CI)</th>
+<th colspan="2" align="center" rowspan="1">Density (ocelots/km<sup>2</sup>)</th>
+</tr>
+<tr>
+<th align="left" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1"/>
+<th align="center" rowspan="1" colspan="1">MMDM</th>
+<th align="center" rowspan="1" colspan="1">½MMDM</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Yabotí Biosphere Reserve <xref rid="t007fn001" ref-type="table-fn"><sup>1</sup></xref></td>
+<td align="center" rowspan="1" colspan="1">Argentina</td>
+<td align="center" rowspan="1" colspan="1">Wet</td>
+<td align="center" rowspan="1" colspan="1">1,871</td>
+<td align="center" rowspan="1" colspan="1">274,200</td>
+<td align="center" rowspan="1" colspan="1">39 (35–54)</td>
+<td align="center" rowspan="1" colspan="1">0.05</td>
+<td align="center" rowspan="1" colspan="1">0.09</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Iguazú National Park <xref rid="t007fn001" ref-type="table-fn"><sup>1</sup></xref>/ San Jorge Forest Reserve <xref rid="t007fn001" ref-type="table-fn"><sup>1</sup></xref></td>
+<td align="center" rowspan="1" colspan="1">Argentina/ Brazil</td>
+<td align="center" rowspan="1" colspan="1">Wet</td>
+<td align="center" rowspan="1" colspan="1">2,059</td>
+<td align="center" rowspan="1" colspan="1">259,400</td>
+<td align="center" rowspan="1" colspan="1">86 (75–111)</td>
+<td align="center" rowspan="1" colspan="1">0.10</td>
+<td align="center" rowspan="1" colspan="1">0.17</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Iguazú National Park <xref rid="t007fn002" ref-type="table-fn"><sup>2</sup></xref></td>
+<td align="center" rowspan="1" colspan="1">Argentina</td>
+<td align="center" rowspan="1" colspan="1">Both</td>
+<td align="center" rowspan="1" colspan="1">1,631</td>
+<td align="center" rowspan="1" colspan="1">170,000</td>
+<td align="center" rowspan="1" colspan="1">55 (42–87)</td>
+<td align="center" rowspan="1" colspan="1">0.13</td>
+<td align="center" rowspan="1" colspan="1">0.20</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Uruguaí Private Reserve <xref rid="t007fn002" ref-type="table-fn"><sup>2</sup></xref></td>
+<td align="center" rowspan="1" colspan="1">Argentina</td>
+<td align="center" rowspan="1" colspan="1">Both</td>
+<td align="center" rowspan="1" colspan="1">1,409</td>
+<td align="center" rowspan="1" colspan="1">113,243</td>
+<td align="center" rowspan="1" colspan="1">20 (18–35)</td>
+<td align="center" rowspan="1" colspan="1">0.08</td>
+<td align="center" rowspan="1" colspan="1">0.13</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Ilha do Cardoso State Park <xref rid="t007fn003" ref-type="table-fn"><sup>3</sup></xref></td>
+<td align="center" rowspan="1" colspan="1">Brazil</td>
+<td align="center" rowspan="1" colspan="1">Dry</td>
+<td align="center" rowspan="1" colspan="1">585</td>
+<td align="center" rowspan="1" colspan="1">15,100</td>
+<td align="center" rowspan="1" colspan="1">6</td>
+<td align="center" rowspan="1" colspan="1">0.21</td>
+<td align="center" rowspan="1" colspan="1">-</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Caraguatá Ecological Reserve <xref rid="t007fn004" ref-type="table-fn"><sup>4</sup></xref></td>
+<td align="center" rowspan="1" colspan="1">Brazil</td>
+<td align="center" rowspan="1" colspan="1">Both</td>
+<td align="center" rowspan="1" colspan="1">4,250</td>
+<td align="center" rowspan="1" colspan="1">4,300</td>
+<td align="center" rowspan="1" colspan="1">3.07</td>
+<td align="center" rowspan="1" colspan="1">-</td>
+<td align="center" rowspan="1" colspan="1">0.04</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Feliciano Miguel Abdala Reserve <xref rid="t007fn005" ref-type="table-fn"><sup>5</sup></xref></td>
+<td align="center" rowspan="1" colspan="1">Brazil</td>
+<td align="center" rowspan="1" colspan="1">Dry</td>
+<td align="center" rowspan="1" colspan="1">450</td>
+<td align="center" rowspan="1" colspan="1">957</td>
+<td align="center" rowspan="1" colspan="1">2</td>
+<td align="center" rowspan="1" colspan="1">0.16</td>
+<td align="center" rowspan="1" colspan="1">0.35</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t007fn001"><p><sup>1</sup> [<xref rid="pone.0141333.ref030" ref-type="bibr">30</xref>]</p></fn>
+<fn id="t007fn002"><p><sup>2</sup> [<xref rid="pone.0141333.ref031" ref-type="bibr">31</xref>]</p></fn>
+<fn id="t007fn003"><p><sup>3</sup> [<xref rid="pone.0141333.ref032" ref-type="bibr">32</xref>]</p></fn>
+<fn id="t007fn004"><p><sup>4</sup> [<xref rid="pone.0141333.ref033" ref-type="bibr">33</xref>]</p></fn>
+<fn id="t007fn005"><p><sup>5</sup> [<xref rid="pone.0141333.ref029" ref-type="bibr">29</xref>]</p></fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Fazenda Macedônia had a relatively small size (560 ha), a high abundance and density of ocelots, and no jaguars (Tables <xref rid="pone.0141333.t002" ref-type="table">2</xref> and <xref rid="pone.0141333.t003" ref-type="table">3</xref>). We believed that due to the proximity (15 km) of this reserve to the largest reserve (RD) and the existence of several smaller fragments connecting these two areas, the flow of ocelots among these fragments may be facilitated, making RD act as possible source of ocelots to FM. Young male ocelots (two or three years old), can disperse more than 10 km [<xref rid="pone.0141333.ref013" ref-type="bibr">13</xref>]. Further, FM has had potential prey species reintroduced, especially Galliformes and Tinamiformes birds [<xref rid="pone.0141333.ref086" ref-type="bibr">86</xref>], which may also attract predators, such as ocelots, to the area. However, longer-term studies and radio-tracking approaches are needed to test this hypothesis. At the same time, the high estimates of ocelot density in FM obtained using some buffers (i.e., Forest MMDM and ½ Forest MMDM; <xref rid="pone.0141333.t003" ref-type="table">Table 3</xref>) relies on the fact that this area has the smallest proportion of forest among all reserves (<xref rid="pone.0141333.t002" ref-type="table">Table 2</xref>), which may inflate the ocelot density through a mathematical artifact.</p>
+<p>Although we did not detect closure violations, detecting such violations is difficult with small data sets. If the ocelot population is open then we are technically estimating a super-population (i.e., all individuals that use the sampled area during sampling; [<xref rid="pone.0141333.ref068" ref-type="bibr">68</xref>]). A super-population definition also aligns with potentially high turnover of ocelots among occasions and seasons, especially inside small or medium-sized fragments. In one small reserve (FMA) for example, we detect just one different individual in each season and no ocelots were recorded in one medium-sized reserve (SS) during the wet season. Further, in FMA the ocelots were only detected in a single occasion. The super-population concept may imply the existence of a metapopulation dynamic among fragments [<xref rid="pone.0141333.ref087" ref-type="bibr">87</xref>], reinforcing our suggestion of a flow of ocelot individuals between the largest reserve (RD) and one small reserve (FM).</p>
+<p>Ocelots of different sex may have different home ranges [<xref rid="pone.0141333.ref022" ref-type="bibr">22</xref>,<xref rid="pone.0141333.ref031" ref-type="bibr">31</xref>, <xref rid="pone.0141333.ref034" ref-type="bibr">34</xref>], and ranges may vary by season [<xref rid="pone.0141333.ref034" ref-type="bibr">34</xref>, <xref rid="pone.0141333.ref088" ref-type="bibr">88</xref>]. Ocelots may use large trails or unpaved roads to move around the landscape [<xref rid="pone.0141333.ref037" ref-type="bibr">37</xref>–<xref rid="pone.0141333.ref039" ref-type="bibr">39</xref>]. However, we did not find strong support for these variables affecting detection probability of ocelots. Although the proportion of forest had just some influence (AICc weights = 39.37%) on ocelot detection, it was the reserve variable that best explained the variation in ocelot detection. Low detectability in more forested areas may relate to large ocelot home ranges in these areas, where individuals have a larger amount of forested area to use. Conversely, in areas poorly covered by forests, ocelots may have smaller home ranges (i.e. Bolivia; [<xref rid="pone.0141333.ref062" ref-type="bibr">62</xref>]) and concentrate travel (about 3 to 7 km per night) in a smaller area to attain their daily energy requirements [<xref rid="pone.0141333.ref022" ref-type="bibr">22</xref>, <xref rid="pone.0141333.ref024" ref-type="bibr">24</xref>, <xref rid="pone.0141333.ref089" ref-type="bibr">89</xref>], which can increase their detection probabilities. This reasoning however does not explain our results in one small reserve (FMA), which has the second lowest proportion of forest among all sampled areas (<xref rid="pone.0141333.t002" ref-type="table">Table 2</xref>) but the lowest detection probability (<xref rid="pone.0141333.g002" ref-type="fig">Fig 2</xref>). We believe that some other variables that we did not measure in this present study may better explain the variation in ocelot detection probability among reserves and should be investigated in future studies. Some obvious possibilities that are known to affect mammal populations includes degree of surveillance or poaching pressure [<xref rid="pone.0141333.ref003" ref-type="bibr">3</xref>, <xref rid="pone.0141333.ref090" ref-type="bibr">90</xref>]. We refrain to speculate about these, given that an accurate assessment of such effects are lacking for our six reserves.</p>
+<p>We do have data on the immediate surrounding landscapes of our reserves. One of our small and least forested reserve (i.e., FM) for example, is surrounded by eucalyptus, which may be used constantly by ocelots as travel routes to move between native habitats within or outside the reserve [<xref rid="pone.0141333.ref091" ref-type="bibr">91</xref>]. Because ocelot is a forest dependent species [<xref rid="pone.0141333.ref025" ref-type="bibr">25</xref>,<xref rid="pone.0141333.ref061" ref-type="bibr">61</xref>, <xref rid="pone.0141333.ref092" ref-type="bibr">92</xref>], it may uses eucalyptus more often than open habitats (e.g., pasture or croplands) to find native habitats (e.g., native forest). Therefore, reserves surrounded by more permeable matrices may have higher ocelot detection than areas surrounded by more inhospitable habitats (e.g., pasture around FMA).</p>
+<p>Overall, our findings suggest that top predators, especially the jaguar, seem to act as an umbrella species for ocelots and other sympatric mesocarnivores [<xref rid="pone.0141333.ref073" ref-type="bibr">73</xref>] and that ecological processes that are detrimental to top predators may also be detrimental to ocelots. By protecting top predators we may also protect other species, such as ocelots. Indeed, top predators have been target by conservation initiatives to protect entire communities in different ecosystems [<xref rid="pone.0141333.ref076" ref-type="bibr">76</xref>]. Although our data show that the ocelot is able to inhabit smaller reserves, the lower densities (except for FM) indicate that these reserves might represent poor habitats. These results corroborates other authors working on the effects of forest fragmentation in the Atlantic forest, which show that only large fragments in the range of 20,000 ha or more can sustain viable populations of medium to large sized mammal species [<xref rid="pone.0141333.ref006" ref-type="bibr">6</xref>, <xref rid="pone.0141333.ref007" ref-type="bibr">7</xref>, <xref rid="pone.0141333.ref027" ref-type="bibr">27</xref>].</p>
+<p>Low densities in small fragments translates to small populations with low viability. In the USA, for example, only two known isolated ocelot populations occur in southern Texas. For these isolated populations, conservation concerns include loss of dense forest habitat, mortality from vehicle-collisions, and genetic drift [<xref rid="pone.0141333.ref093" ref-type="bibr">93</xref>]. A habitat-based population strategy was adopted for the recovery efforts of these populations [<xref rid="pone.0141333.ref092" ref-type="bibr">92</xref>, <xref rid="pone.0141333.ref093" ref-type="bibr">93</xref>]. The long-term recovery strategy included the restoration of ocelot habitat and the establishment of a dispersal corridor between ocelot breeding populations [<xref rid="pone.0141333.ref092" ref-type="bibr">92</xref>]. Whether increased connectivity will be able to overcome genetic drift or the reduction in the genetic diversity is unknown [<xref rid="pone.0141333.ref094" ref-type="bibr">94</xref>–<xref rid="pone.0141333.ref096" ref-type="bibr">96</xref>]. Unfortunately, a similar situation may be occurring among the remnant ocelot populations in the Atlantic Forest. A recent study found the first report of a unilateral cryptorchidism (i.e., the absence of one testis from the scrotum) in an wild adult ocelot, an inherited condition linked to low genetic variability in inbred wild cats [<xref rid="pone.0141333.ref097" ref-type="bibr">97</xref>]. This finding is especially concerning because it comes from the largest of our study areas (RD, with 36,000 ha). Therefore, without increased connectivity, the outlook for ocelots in the Atlantic Forest may be pessimistic, a view also backed by others [<xref rid="pone.0141333.ref030" ref-type="bibr">30</xref>, <xref rid="pone.0141333.ref031" ref-type="bibr">31</xref>].</p>
+</sec>
+<sec id="sec010">
+<title>Conclusion and Recommendations</title>
+<p>Our findings do not support the hypothesis of mesopredator release. Rather, our analyses indicate that presence of top predators and reserve size correlated positively with an increased abundance of ocelots in the Atlantic Forest reserves. The implementation of biodiversity corridors could protect and increase the current ocelot population in small Atlantic Forest fragments, reducing the isolation of small populations and augmenting structural and functional connectivity among forest patches. However, a better alternative might be based on improving connections via native vegetation and protection through the Brazilian Forest code (Federal Law number 12,651 from May 25, 2,012). Preliminary data of an ongoing project carried out in São Paulo state show, for example, that ocelots do inhabit areas of permanent protection (Áreas de Proteção Permanente—APPs), even when these are immersed in sugar cane or eucalyptus matrices [<xref rid="pone.0141333.ref098" ref-type="bibr">98</xref>]. According to the Brazilian forest code, these APPs protect mainly watercourses. Therefore, the possibility that these areas act like true corridors might indeed be real. We note that one small reserve (FM) and the largest reserve (RD) are linked by the Rio Doce River. Implementing the Forest Code law would therefore translate to increasing structural connectivity between these two protected areas via restoration of riparian forests along the Rio Doce River. Future studies should, investigate more closely these areas and their surrounding matrices in order to assess their use by ocelots.</p>
+</sec>
+</body>
+<back>
+<ack>
+<p>Volunteers assisted with fieldwork. Dr. Larissa Bailey, the Wagar 113 super-population, Dr. Bailey’s laboratory and three anonymous reviewers kindly reviewed and helped to improve the manuscript. Dr. Adriano Paglia, Dr. Flávio Rodrigues and Dr. José Eugênio Figueira for suggestions in a previous version of the manuscript.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0141333.ref001"><label>1</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fahrig</surname> <given-names>L</given-names></name>. <article-title>Effects of habitat fragmentation on biodiversity</article-title>. <source>Annu Rev Ecol, Evol Syst</source>. <year>2003</year>; <volume>34</volume>: <fpage>487</fpage>–<lpage>515</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref002"><label>2</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gascon</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Williamson</surname> <given-names>GB</given-names></name>, <article-title>Fonseca GABd. Ecology:Receding forest edges and vanishing reserves</article-title>. <source>Science</source>. <year>2000</year>; <volume>288</volume>: <fpage>1356</fpage>–<lpage>1358</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.288.5470.1356" xlink:type="simple">10.1126/science.288.5470.1356</ext-link></comment> <object-id pub-id-type="pmid">10847849</object-id></mixed-citation></ref>
+<ref id="pone.0141333.ref003"><label>3</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Galetti</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Giacomini</surname> <given-names>HC</given-names></name>, <name name-style="western"><surname>Bueno</surname> <given-names>RS</given-names></name>, <name name-style="western"><surname>Bernardo</surname> <given-names>CSS</given-names></name>, <name name-style="western"><surname>Marques</surname> <given-names>RM</given-names></name>, <name name-style="western"><surname>Bovendorp</surname> <given-names>RS</given-names></name>, <etal>et al</etal>. <article-title>Priority areas for the conservation of atlantic forest large mammals</article-title>. <source>Biol Conserv</source>. <year>2009</year>; <volume>142</volume>: <fpage>1229</fpage>–<lpage>1241</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref004"><label>4</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ribeiro</surname> <given-names>MC</given-names></name>, <name name-style="western"><surname>Metzger</surname> <given-names>JP</given-names></name>, <name name-style="western"><surname>Martensen</surname> <given-names>AC</given-names></name>, <name name-style="western"><surname>Ponzoni</surname> <given-names>FJ</given-names></name>, <name name-style="western"><surname>Hirota</surname> <given-names>MM</given-names></name>. <article-title>The brazilian atlantic forest:How much is left, and how is the remaining forest distributed? Implications for conservation</article-title>. <source>Biol Conserv</source>. <year>2009</year>; <volume>142</volume>: <fpage>1141</fpage>–<lpage>1153</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref005"><label>5</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tabarelli</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Aguiar</surname> <given-names>AV</given-names></name>, <name name-style="western"><surname>Ribeiro</surname> <given-names>MC</given-names></name>, <name name-style="western"><surname>Metzger</surname> <given-names>JP</given-names></name>, <name name-style="western"><surname>Peres</surname> <given-names>CA</given-names></name>. <article-title>Prospects for biodiversity conservation in the atlantic forest: Lessons from aging human-modified landscapes</article-title>. <source>Biol Conserv</source>. <year>2010</year>; <volume>143</volume>: <fpage>2328</fpage>–<lpage>2340</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref006"><label>6</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Canale</surname> <given-names>GR</given-names></name>, <name name-style="western"><surname>Peres</surname> <given-names>CA</given-names></name>, <name name-style="western"><surname>Guidorizzi</surname> <given-names>CE</given-names></name>, <name name-style="western"><surname>Gatto</surname> <given-names>CAF</given-names></name>, <name name-style="western"><surname>Kierulff</surname> <given-names>MCM</given-names></name>. <article-title>Pervasive defaunation of forest remnants in a tropical biodiversity hotspot</article-title>. <source>PloS one</source>. <year>2012</year>; <volume>7</volume>: <fpage>1</fpage>–<lpage>8</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref007"><label>7</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jorge</surname> <given-names>MLSP</given-names></name>, <name name-style="western"><surname>Galetti</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Ribeiro</surname> <given-names>MC</given-names></name>, <name name-style="western"><surname>Ferraz</surname> <given-names>KMPMB</given-names></name>. <article-title>Mammal defaunation as surrogate of trophic cascades in a biodiversity hotspot</article-title>. <source>Biol Conserv</source>. <year>2013</year>; <volume>163</volume>: <fpage>49</fpage>–<lpage>57</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biocon.2013.04.018" xlink:type="simple">10.1016/j.biocon.2013.04.018</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref008"><label>8</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Crooks</surname> <given-names>KR</given-names></name>. <article-title>Relative sensitivities of mammalian carnivores to habitat fragmentation</article-title>. <source>Conserv Biol</source>. <year>2002</year>; <volume>16</volume>: <fpage>488</fpage>–<lpage>502</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref009"><label>9</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Estes</surname> <given-names>JA</given-names></name>, <name name-style="western"><surname>Terborgh</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Brashares</surname> <given-names>JS</given-names></name>, <name name-style="western"><surname>Power</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Berger</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Bond</surname> <given-names>WJ</given-names></name>, <etal>et al</etal>. <article-title>Trophic downgrading of planet earth</article-title>. <source>Science</source>. <year>2011</year>; <volume>333</volume>: <fpage>301</fpage>–<lpage>306</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.1205106" xlink:type="simple">10.1126/science.1205106</ext-link></comment> <object-id pub-id-type="pmid">21764740</object-id></mixed-citation></ref>
+<ref id="pone.0141333.ref010"><label>10</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Roemer</surname> <given-names>GW</given-names></name>, <name name-style="western"><surname>Gompper</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Valkenburgh</surname> <given-names>BV</given-names></name>. <article-title>The ecological role of the mammalian mesocarnivore</article-title>. <source>Bioscience</source>. <year>2009</year>; <volume>59</volume>: <fpage>165</fpage>–<lpage>173</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref011"><label>11</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Crooks</surname> <given-names>KR</given-names></name>, <name name-style="western"><surname>Soulé</surname> <given-names>ME</given-names></name>. <article-title>Mesopredator release and avifaunal extinctions in a fragmented system</article-title>. <source>Nature</source>. <year>1999</year>; <volume>400</volume>: <fpage>563</fpage>–<lpage>566</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref012"><label>12</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moreno</surname> <given-names>RS</given-names></name>, <name name-style="western"><surname>Kays</surname> <given-names>RW</given-names></name>, <name name-style="western"><surname>Samudio</surname> <given-names>RJ</given-names></name>. <article-title>Competitive release in diets of ocelot (<italic>Leopardus pardalis</italic>) and puma (<italic>Puma concolor</italic>) after jaguar (<italic>Panthera onca</italic>) decline</article-title>. <source>J Mammal</source>. <year>2006</year>; <volume>87</volume>: <fpage>808</fpage>–<lpage>816</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref013"><label>13</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Sunquist</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Sunquist</surname> <given-names>F</given-names></name>. <chapter-title>Wild cats of the world</chapter-title>. <edition>1st ed.</edition> <publisher-loc>Chicago</publisher-loc>: <publisher-name>University of Chicago Press</publisher-name>; <year>2002</year>.</mixed-citation></ref>
+<ref id="pone.0141333.ref014"><label>14</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bianchi</surname> <given-names>RdC</given-names></name>, <name name-style="western"><surname>Mendes</surname> <given-names>SL</given-names></name>, <name name-style="western"><surname>Júnior</surname> <given-names>PDM</given-names></name>. <article-title>Food habits of the ocelot, <italic>Leopardus pardalis</italic>, in two areas in southeast Brazil</article-title>. <source>Stud Neotrop Fauna Environ</source>. <year>2010</year>; <volume>45</volume>: <fpage>111</fpage>–<lpage>119</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/01650521.2010.514791" xlink:type="simple">10.1080/01650521.2010.514791</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref015"><label>15</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bianchi</surname> <given-names>RdC</given-names></name>, <name name-style="western"><surname>Mendes</surname> <given-names>SL</given-names></name>. <article-title>Ocelot (<italic>Leopardus pardalis</italic>) predation on primates in caratinga biological station, southeast Brazil</article-title>. <source>Am J Primatol</source>. <year>2007</year>; <volume>69</volume>: <fpage>1</fpage>–<lpage>6</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref016"><label>16</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Santos</surname> <given-names>JL</given-names></name>, <name name-style="western"><surname>Paschoal</surname> <given-names>AMO</given-names></name>, <name name-style="western"><surname>Massara</surname> <given-names>RL</given-names></name>, <name name-style="western"><surname>Chiarello</surname> <given-names>AG</given-names></name>. <article-title>High consumption of primates by pumas and ocelots in a remnant of the brazilian atlantic forest</article-title>. <source>Braz J Biol</source>. <year>2014</year>; <volume>74</volume>: <fpage>632</fpage>–<lpage>641</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/bjb.2014.0094" xlink:type="simple">10.1590/bjb.2014.0094</ext-link></comment> <object-id pub-id-type="pmid">25296212</object-id></mixed-citation></ref>
+<ref id="pone.0141333.ref017"><label>17</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bianchi</surname> <given-names>RdC</given-names></name>, <name name-style="western"><surname>Campos</surname> <given-names>RC</given-names></name>, <name name-style="western"><surname>Xavier-Filho</surname> <given-names>NL</given-names></name>, <name name-style="western"><surname>Olifiers</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Gompper</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Mourão</surname> <given-names>G</given-names></name>. <article-title>Intraspecific, interspecific, and seasonal differences in the diet of three mid-sized carnivores in a large neotropical wetland</article-title>. <source>Acta Theriol</source>. <year>2014</year>; <volume>59</volume>: <fpage>13</fpage>–<lpage>23</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s13364-013-0137-x" xlink:type="simple">10.1007/s13364-013-0137-x</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref018"><label>18</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chinchilla</surname> <given-names>FA</given-names></name>. <article-title>La dieta del jaguar (<italic>Panthera onca</italic>), el puma (<italic>Felis concolor</italic>) y el manigordo (<italic>Felis pardalis</italic>) (carnivora: Felidae) en el Parque Nacional Corcovado, Costa Rica</article-title>. <source>Rev Biol Trop</source>. <year>1997</year>; <volume>45</volume>: <fpage>1223</fpage>–<lpage>1229</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref019"><label>19</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Emmons</surname> <given-names>LH</given-names></name>. <article-title>Comparative feeding ecology of felids in a neotropical rainforest</article-title>. <source>Behav Ecol Sociobiol</source>. <year>1987</year>; <volume>20</volume>: <fpage>271</fpage>–<lpage>283</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref020"><label>20</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Oliveira</surname> <given-names>TG</given-names></name>, <name name-style="western"><surname>Tortato</surname> <given-names>MA</given-names></name>, <name name-style="western"><surname>Silveira</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Kasper</surname> <given-names>CB</given-names></name>, <name name-style="western"><surname>Mazim</surname> <given-names>FD</given-names></name>, <name name-style="western"><surname>Lucherini</surname> <given-names>M</given-names></name>, <etal>et al</etal>. <chapter-title>Ocelot ecology and its effect on the small-felid guild in the lowland neotropics</chapter-title>. In: <name name-style="western"><surname>Macdonald</surname> <given-names>DW</given-names></name>, <name name-style="western"><surname>Loveridge</surname> <given-names>A</given-names></name>, editors. <source>Biology and conservation of wild felids</source>. <publisher-loc>Oxford</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>; <year>2010</year>. pp. <fpage>563</fpage>–<lpage>584</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref021"><label>21</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Oliveira-Santos</surname> <given-names>LGR</given-names></name>, <name name-style="western"><surname>Graipel</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Tortato</surname> <given-names>MA</given-names></name>, <name name-style="western"><surname>Zucco</surname> <given-names>CA</given-names></name>, <name name-style="western"><surname>Cáceres</surname> <given-names>NC</given-names></name>, <name name-style="western"><surname>Goulart</surname> <given-names>FVB</given-names></name>. <article-title>Abundance changes and activity flexibility of the oncilla, <italic>Leopardus tigrinus</italic> (carnivora: Felidae), appear to reflect avoidance of conflict</article-title>. <source>Zoologia</source> <year>2012</year>; <volume>29</volume>: <fpage>115</fpage>–<lpage>120</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/s1984-46702012000200003" xlink:type="simple">10.1590/s1984-46702012000200003</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref022"><label>22</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ludlow</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Sunquist</surname> <given-names>ME</given-names></name>. <article-title>Ecology and behavior of ocelots in Venezuela</article-title>. <source>Natl Geogr Res</source>. <year>1987</year>; <volume>3</volume>: <fpage>447</fpage>–<lpage>461</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref023"><label>23</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Silva-Pereira</surname> <given-names>JE</given-names></name>, <name name-style="western"><surname>Moro-Rios</surname> <given-names>RF</given-names></name>, <name name-style="western"><surname>Bilski</surname> <given-names>DR</given-names></name>, <name name-style="western"><surname>Passos</surname> <given-names>FC</given-names></name>. <article-title>Diets of three sympatric neotropical small cats: Food niche overlap and interspecies differences in prey consumption</article-title>. <source>Mamm Biol</source>. <year>2011</year>; <volume>76</volume>: <fpage>308</fpage>–<lpage>312</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.mambio.2010.09.001" xlink:type="simple">10.1016/j.mambio.2010.09.001</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref024"><label>24</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Emmons</surname> <given-names>LH</given-names></name>. <article-title>A field study of ocelots (<italic>Felis pardalis</italic>) in peru</article-title>. <source>Rev d'écologie</source>. <year>1988</year>; <volume>43</volume>: <fpage>133</fpage>–<lpage>157</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref025"><label>25</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Haines</surname> <given-names>AM</given-names></name>, <name name-style="western"><surname>Grassman</surname> <given-names>LI</given-names> <suffix>Jr.</suffix></name>, <name name-style="western"><surname>Tewes</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Janečka</surname> <given-names>JE</given-names></name>. <article-title>First ocelot (<italic>Leopardus pardalis</italic>) monitored with gps telemetry</article-title>. <source>Eur J Wildlife Res</source>. <year>2006</year>; <volume>52</volume>: <fpage>216</fpage>–<lpage>218</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref026"><label>26</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Machado</surname> <given-names>ABM</given-names></name>, <name name-style="western"><surname>Drummond</surname> <given-names>GM</given-names></name>, <name name-style="western"><surname>Paglia</surname> <given-names>AP</given-names></name>. <chapter-title>Livro vermelho da fauna brasileira ameaçada de extinção</chapter-title>. <edition>1st ed.</edition> <publisher-loc>Brasília</publisher-loc>: <publisher-name>Fundação Biodiversitas</publisher-name>; <year>2008</year>.</mixed-citation></ref>
+<ref id="pone.0141333.ref027"><label>27</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chiarello</surname> <given-names>AG</given-names></name>. <article-title>Effects of fragmentation of atlantic forest on mammal communities in south-eastern Brazil</article-title>. <source>Biol Conserv</source>. <year>1999</year>; <volume>89</volume>: <fpage>71</fpage>–<lpage>82</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref028"><label>28</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Di Bitetti</surname> <given-names>MS</given-names></name>, <name name-style="western"><surname>Angelo</surname> <given-names>CDD</given-names></name>, <name name-style="western"><surname>Blanco</surname> <given-names>YED</given-names></name>, <name name-style="western"><surname>Paviolo</surname> <given-names>A</given-names></name>. <article-title>Niche partitioning and species coexistence in a neotropical felid assemblage</article-title>. <source>Acta Oecol</source>. <year>2010</year>; <volume>36</volume>: <fpage>403</fpage>–<lpage>412</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref029"><label>29</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Paschoal</surname> <given-names>AMO</given-names></name>, <name name-style="western"><surname>Massara</surname> <given-names>RL</given-names></name>, <name name-style="western"><surname>Santos</surname> <given-names>JL</given-names></name>, <name name-style="western"><surname>Chiarello</surname> <given-names>AG</given-names></name>. <article-title>Is the domestic dog becoming an abundant species in the atlantic forest? A study case in southeastern Brazil</article-title>. <source>Mammalia</source>. <year>2012</year>; <volume>76</volume>: <fpage>67</fpage>–<lpage>76</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref030"><label>30</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Di Bitetti</surname> <given-names>MS</given-names></name>, <name name-style="western"><surname>Paviolo</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Angelo</surname> <given-names>CDD</given-names></name>, <name name-style="western"><surname>Blanco</surname> <given-names>YED</given-names></name>. <article-title>Local and continental correlates of the abundance of a neotropical cat, the ocelot (<italic>Leopardus pardalis</italic>)</article-title>. <source>J Trop Ecol</source>. <year>2008</year>; <volume>24</volume>: <fpage>189</fpage>–<lpage>200</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref031"><label>31</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Di Bitetti</surname> <given-names>MS</given-names></name>, <name name-style="western"><surname>Paviolo</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Angelo</surname> <given-names>CD</given-names></name>. <article-title>Density, habitat use and activity patterns of ocelots (<italic>Leopardus pardalis</italic>) in the atlantic forest of misiones, Argentina</article-title>. <source>J Zool</source>. <year>2006</year>; <volume>270</volume>: <fpage>153</fpage>–<lpage>163</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref032"><label>32</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fusco-Costa</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Ingberman</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Couto</surname> <given-names>HTZd</given-names></name>, <name name-style="western"><surname>Nakano-Oliveira</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Monteiro-Filho</surname> <given-names>ELdA</given-names></name>. <article-title>Population density of a coastal island population of the ocelot in atlantic forest, southeastern Brazil</article-title>. <source>Mamm Biol</source>. <year>2010</year>; <volume>75</volume>: <fpage>358</fpage>–<lpage>362</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref033"><label>33</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Goulart</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Graipel</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Tortato</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Ghizoni</surname> <given-names>I</given-names> <suffix>-Jr</suffix></name>, <name name-style="western"><surname>Oliveira-Santos</surname> <given-names>LG</given-names></name>, <name name-style="western"><surname>Cáceres</surname> <given-names>N</given-names></name>. <article-title>Ecology of the ocelot (<italic>Leopardus pardalis</italic>) in the atlantic forest of southern Brazil</article-title>. <source>Netrop Biol Cons</source>. <year>2009</year>; <volume>4</volume>: <fpage>137</fpage>–<lpage>143</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4013/nbc.2009.43.03" xlink:type="simple">10.4013/nbc.2009.43.03</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref034"><label>34</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dillon</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Kelly</surname> <given-names>MJ</given-names></name>. <article-title>Ocelot home range, overlap and density: Comparing radio telemetry with camera trapping</article-title>. <source>J Zool</source>. <year>2008</year>; <volume>275</volume>: <fpage>391</fpage>–<lpage>398</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref035"><label>35</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Schipper</surname> <given-names>J</given-names></name>. <article-title>Camera-trap avoidance by kinkajous potos flavus: Rethinking the “non-invasive” paradigm</article-title>. <source>Small Carniv Conserv</source>. <year>2007</year>; <volume>36</volume>: <fpage>38</fpage>–<lpage>41</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref036"><label>36</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wegge</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Pokheral</surname> <given-names>CP</given-names></name>, <name name-style="western"><surname>Jnawali</surname> <given-names>SR</given-names></name>. <article-title>Effects of trapping effort and trap shyness on estimates of tiger abundance from camera trap studies</article-title>. <source>Anim Conserv</source>. <year>2004</year>; <volume>7</volume>: <fpage>251</fpage>–<lpage>256</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/s1367943004001441" xlink:type="simple">10.1017/s1367943004001441</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref037"><label>37</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Goulart</surname> <given-names>FVB</given-names></name>, <name name-style="western"><surname>Cáceres</surname> <given-names>NC</given-names></name>, <name name-style="western"><surname>Graipel</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Tortato</surname> <given-names>MA</given-names></name>, <name name-style="western"><surname>Ghizoni</surname> <given-names>IR</given-names> <suffix>Jr.</suffix></name>, <name name-style="western"><surname>Gustavo</surname> <given-names>L</given-names></name>, <etal>et al</etal>. <article-title>Habitat selection by large mammals in a southern brazilian atlantic forest</article-title>. <source>Mamm Biol</source>. <year>2009</year>; <volume>74</volume>: <fpage>182</fpage>–<lpage>190</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref038"><label>38</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Srbek-Araujo</surname> <given-names>AC</given-names></name>, <name name-style="western"><surname>Chiarello</surname> <given-names>AG</given-names></name>. <article-title>Influence of camera-trap sampling design on mammal species capture rates and community structures in southeastern Brazil</article-title>. <source>Biota Neotrop</source>. <year>2013</year>; <volume>13</volume>: <fpage>51</fpage>–<lpage>62</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref039"><label>39</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Trolle</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Kéry</surname> <given-names>M</given-names></name>. <article-title>Camera-trap study of ocelot and other secretive mammals in the northern pantanal</article-title>. <source>Mammalia</source>. <year>2005</year>; <volume>69</volume>: <fpage>405</fpage>–<lpage>412</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref040"><label>40</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Horne</surname> <given-names>JS</given-names></name>, <name name-style="western"><surname>Haines</surname> <given-names>AM</given-names></name>, <name name-style="western"><surname>Tewes</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Laack</surname> <given-names>LL</given-names></name>. <article-title>Habitat partitioning by sympatric ocelots and bobcats: Implications for recovery of ocelots in southern Texas</article-title>. <source>Southwest Nat</source>. <year>2009</year>; <volume>54</volume>: <fpage>119</fpage>–<lpage>126</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1894/ps-49.1" xlink:type="simple">10.1894/ps-49.1</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref041"><label>41</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tökölyi</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Schmidt</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Barta</surname> <given-names>Z</given-names></name>. <article-title>Climate and mammalian life histories</article-title>. <source>Biol J Linn Soc</source>. <year>2014</year>; <volume>111</volume>: <fpage>719</fpage>–<lpage>736</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref042"><label>42</label><mixed-citation publication-type="other" xlink:type="simple">SOS Mata Atlântica. Relatório técnico do atlas dos remanescentes florestais da mata atlântica (período 2008–2010). 2011. Available: <ext-link ext-link-type="uri" xlink:href="http://mapas.sosma.org.br/" xlink:type="simple">http://mapas.sosma.org.br/</ext-link>.</mixed-citation></ref>
+<ref id="pone.0141333.ref043"><label>43</label><mixed-citation publication-type="other" xlink:type="simple">Miranda EE. Brasil em relevo. Embrapa monitoramento por satélite. 2005. Available: <ext-link ext-link-type="uri" xlink:href="http://www.relevobr.cnpm.embrapa.br" xlink:type="simple">http://www.relevobr.cnpm.embrapa.br</ext-link>.</mixed-citation></ref>
+<ref id="pone.0141333.ref044"><label>44</label><mixed-citation publication-type="other" xlink:type="simple">IBGE. Mapas interativos do ibge: Clima. Atualizado em 07/01/2012. 2012. Available: <ext-link ext-link-type="uri" xlink:href="http://geoftp.ibge.gov.br/mapas_interativos" xlink:type="simple">http://geoftp.ibge.gov.br/mapas_interativos</ext-link>.</mixed-citation></ref>
+<ref id="pone.0141333.ref045"><label>45</label><mixed-citation publication-type="other" xlink:type="simple">IEF. Plano de manejo do Parque Estadual do Rio Doce. 2014. Available: <ext-link ext-link-type="uri" xlink:href="http://www.ief.mg.gov.br/component/content/article/306" xlink:type="simple">http://www.ief.mg.gov.br/component/content/article/306</ext-link>.</mixed-citation></ref>
+<ref id="pone.0141333.ref046"><label>46</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Srbek-Araujo</surname> <given-names>AC</given-names></name>, <name name-style="western"><surname>Scoss</surname> <given-names>LM</given-names></name>, <name name-style="western"><surname>Hirsch</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Chiarello</surname> <given-names>AG</given-names></name>. <article-title>Records of the giant-armadillo <italic>priodontes maximus</italic> (cingulata:Dasypodidae) in the atlantic forest: Are minas gerais and espírito santo the last strongholds of the species?</article-title> <source>Zoologia</source>. <year>2009</year>; <volume>26</volume>: <fpage>461</fpage>–<lpage>468</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref047"><label>47</label><mixed-citation publication-type="other" xlink:type="simple">SOS Mata Atlântica. Atlas dos remanescentes florestais da mata atlântica (período 2011–2012). 2014. Available: <ext-link ext-link-type="uri" xlink:href="http://mapas.sosma.org.br/" xlink:type="simple">http://mapas.sosma.org.br/</ext-link></mixed-citation></ref>
+<ref id="pone.0141333.ref048"><label>48</label><mixed-citation publication-type="other" xlink:type="simple">IBGE. Mapas temáticos: Municípios do Brasil. 2005. Available: <ext-link ext-link-type="uri" xlink:href="http://downloads.ibge.gov.br/" xlink:type="simple">http://downloads.ibge.gov.br/</ext-link>.</mixed-citation></ref>
+<ref id="pone.0141333.ref049"><label>49</label><mixed-citation publication-type="book" xlink:type="simple"><collab xlink:type="simple">ESRI</collab>. <source>Arcgis v. 9.2</source>. <publisher-name>Esri</publisher-name>. <year>2008</year>. Available: <ext-link ext-link-type="uri" xlink:href="http://www.esri.com/software/index.html" xlink:type="simple">http://www.esri.com/software/index.html</ext-link>.</mixed-citation></ref>
+<ref id="pone.0141333.ref050"><label>50</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Crawshaw</surname> <given-names>PG</given-names></name>, <name name-style="western"><surname>Quigley</surname> <given-names>HB</given-names></name>. <article-title>Notes on ocelot movement and activity in the pantanal region, Brazil</article-title>. <source>Biotropica</source>. <year>1989</year>; <volume>21</volume>: <fpage>377</fpage>–<lpage>379</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref051"><label>51</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Foster</surname> <given-names>RJ</given-names></name>, <name name-style="western"><surname>Harmsen</surname> <given-names>BJ</given-names></name>. <article-title>A critique of density estimation from camera-trap data</article-title>. <source>J Wildl Manage</source>. <year>2012</year>; <volume>9999</volume>: <fpage>1</fpage>–<lpage>13</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/jwmg.275&amp;ArticleID=915261" xlink:type="simple">10.1002/jwmg.275&amp;ArticleID=915261</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref052"><label>52</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Harmsen</surname> <given-names>BJ</given-names></name>, <name name-style="western"><surname>Foster</surname> <given-names>RJ</given-names></name>, <name name-style="western"><surname>Doncaster</surname> <given-names>CP</given-names></name>. <article-title>Heterogeneous capture rates in low density populations and consequences for capture-recapture analysis of camera-trap data</article-title>. <source>Popul Ecol</source>. <year>2011</year>; <volume>53</volume>: <fpage>253</fpage>–<lpage>259</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10144-010-0211-z" xlink:type="simple">10.1007/s10144-010-0211-z</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref053"><label>53</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Huggins</surname> <given-names>RM</given-names></name>. <article-title>On the statistical analysis of capture experiments</article-title>. <source>Biometrika</source>. <year>1989</year>; <volume>76</volume>: <fpage>133</fpage>–<lpage>140</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref054"><label>54</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Huggins</surname> <given-names>RM</given-names></name>. <article-title>Some practical aspects of a conditional likelihood approach to capture experiments</article-title>. <source>Biometrics</source>. <year>1991</year>; <volume>47</volume>: <fpage>725</fpage>–<lpage>732</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref055"><label>55</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>White</surname> <given-names>GC</given-names></name>, <name name-style="western"><surname>Burnham</surname> <given-names>KP</given-names></name>. <article-title>Program mark: Survival estimation from populations of marked animals</article-title>. <source>Bird Study</source>. <year>1999</year>; <volume>46</volume>: <fpage>120</fpage>–<lpage>139</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref056"><label>56</label><mixed-citation publication-type="book" xlink:type="simple"><collab xlink:type="simple">Erdas</collab>. <chapter-title>Erdas imagine v. 8.4 field guide</chapter-title>. <edition>4th ed.</edition> <publisher-loc>Atlanta</publisher-loc>: <publisher-name>Erdas</publisher-name>; <year>1997</year>.</mixed-citation></ref>
+<ref id="pone.0141333.ref057"><label>57</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Soisalo</surname> <given-names>MK</given-names></name>, <name name-style="western"><surname>Cavalcanti</surname> <given-names>SMC</given-names></name>. <article-title>Estimating the density of a jaguar population in the brazilian pantanal using camera-traps and capture–recapture sampling in combination with gps radio-telemetry</article-title>. <source>Biol Conserv</source>. <year>2006</year>; <volume>129</volume>: <fpage>487</fpage>–<lpage>496</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref058"><label>58</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>White</surname> <given-names>GC</given-names></name>. <chapter-title>Population viability analysis: Data requirements and essential analysis</chapter-title>. In: <name name-style="western"><surname>Fuller</surname> <given-names>LBTK</given-names></name>, editor. <source>Research techniques in animal ecology: Controversies and consequences</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Columbia University Press</publisher-name>; <year>2000</year>. pp. <fpage>288</fpage>–<lpage>331</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref059"><label>59</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Burnham</surname> <given-names>KP</given-names></name>, <name name-style="western"><surname>White</surname> <given-names>GC</given-names></name>. <article-title>Evaluation of some random effects methodology applicable to bird ringing data</article-title>. <source>J Appl Statist</source>. <year>2002</year>; <volume>29</volume>: <fpage>245</fpage>–<lpage>264</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/02664760" xlink:type="simple">10.1080/02664760</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref060"><label>60</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gerber</surname> <given-names>BD</given-names></name>, <name name-style="western"><surname>Ivan</surname> <given-names>JS</given-names></name>, <name name-style="western"><surname>Burnham</surname> <given-names>KP</given-names></name>. <article-title>Estimating the abundance of rare and elusive carnivores from photographic-sampling data when the population size is very small</article-title>. <source>Popul Ecol</source>. <year>2014</year>; <volume>56</volume>: <fpage>463</fpage>–<lpage>470</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10144-014-0431-8" xlink:type="simple">10.1007/s10144-014-0431-8</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref061"><label>61</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Harverson</surname> <given-names>PM</given-names></name>, <name name-style="western"><surname>Tewes</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Anderson</surname> <given-names>GL</given-names></name>, <name name-style="western"><surname>Laack</surname> <given-names>LL</given-names></name>. <article-title>Habitat use by ocelots in south Texas: Implications for restauration</article-title>. <source>Wildl Soc Bull</source>. <year>2004</year>; <volume>32</volume>: <fpage>948</fpage>–<lpage>954</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref062"><label>62</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Maffei</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Noss</surname> <given-names>AJ</given-names></name>. <article-title>How small is too small? Camera trap survey areas and density estimates for ocelots in the bolivian chaco</article-title>. <source>Biotropica</source>. <year>2008</year>; <volume>40</volume>: <fpage>71</fpage>–<lpage>75</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref063"><label>63</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Noss</surname> <given-names>AJ</given-names></name>, <name name-style="western"><surname>Gardner</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Maffei</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Cuéllar</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Montaño</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Romero-Muñoz</surname> <given-names>A</given-names></name>, <etal>et al</etal>. <article-title>Comparison of density estimation methods for mammal populations with camera traps in the kaa-iya del gran chaco landscape</article-title>. <source>Anim Conserv</source>. <year>2012</year>; <volume>15</volume>: <fpage>527</fpage>–<lpage>535</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1469-1795.2012.00545.x" xlink:type="simple">10.1111/j.1469-1795.2012.00545.x</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref064"><label>64</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Burnham</surname> <given-names>KP</given-names></name>, <name name-style="western"><surname>Anderson</surname> <given-names>DR</given-names></name>. <chapter-title>Model selection and multimodel inference: A practical information-theoretical approach</chapter-title>. <edition>2nd ed.</edition> <publisher-loc>New York</publisher-loc>: <publisher-name>Springer-Verlag</publisher-name>; <year>2002</year>.</mixed-citation></ref>
+<ref id="pone.0141333.ref065"><label>65</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Doherty</surname> <given-names>PF</given-names></name>, <name name-style="western"><surname>White</surname> <given-names>GC</given-names></name>, <name name-style="western"><surname>Burnham</surname> <given-names>KP</given-names></name>. <article-title>Comparison of model building and selection strategies</article-title>. <source>J Ornithol</source>. <year>2012</year>; <volume>152</volume>: <fpage>S317</fpage>–<lpage>S323</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref066"><label>66</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Otis</surname> <given-names>DL</given-names></name>, <name name-style="western"><surname>Burnham</surname> <given-names>KP</given-names></name>, <name name-style="western"><surname>White</surname> <given-names>GC</given-names></name>, <name name-style="western"><surname>Anderson</surname> <given-names>DR</given-names></name>. <article-title>Statistical inference from capture data on closed animal populations</article-title>. <source>Wildlife Monogr</source>. <year>1978</year>; <volume>62</volume>: <fpage>3</fpage>–<lpage>155</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref067"><label>67</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>White</surname> <given-names>GC</given-names></name>. <article-title>Discussion comments on: The use of auxiliary variables in capture-recapture modelling. An overview</article-title>. <source>J Appl Statist</source>. <year>2002</year>; <volume>29</volume>: <fpage>103</fpage>–<lpage>106</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref068"><label>68</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Schwarz</surname> <given-names>CJ</given-names></name>, <name name-style="western"><surname>Arnason</surname> <given-names>AN</given-names></name>. <article-title>A general methodology for the analysis of capture-recapture experiments in open populations</article-title>. <source>Biometrics</source>. <year>1996</year>; <volume>52</volume>: <fpage>860</fpage>–<lpage>873</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref069"><label>69</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ripple</surname> <given-names>WJ</given-names></name>, <name name-style="western"><surname>Beschta</surname> <given-names>RL</given-names></name>. <article-title>Trophic cascades involving cougar, mule deer, and black oaks in Yosemite National Park</article-title>. <source>Biol Conserv</source>. <year>2008</year>; <volume>141</volume>: <fpage>1249</fpage>–<lpage>1256</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biocon.2008.02.028" xlink:type="simple">10.1016/j.biocon.2008.02.028</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref070"><label>70</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ripple</surname> <given-names>WJ</given-names></name>, <name name-style="western"><surname>Beschta</surname> <given-names>RL</given-names></name>. <article-title>Hardwood tree decline following large carnivore loss on the great plains, USA</article-title>. <source>Front Ecol Environ</source>. <year>2007</year>; <volume>5</volume>: <fpage>241</fpage>–<lpage>246</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref071"><label>71</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carbone</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Gittleman</surname> <given-names>JL</given-names></name>. <article-title>A common rule for the scaling of carnivore density</article-title>. <source>Science</source>. <year>2002</year>; <volume>295</volume>: <fpage>2273</fpage>–<lpage>2276</lpage>. <object-id pub-id-type="pmid">11910114</object-id></mixed-citation></ref>
+<ref id="pone.0141333.ref072"><label>72</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Oliveira</surname> <given-names>TGd</given-names></name>. <chapter-title>Ecología comparativa de la alimentación del jaguar y del puma en el neotrópico</chapter-title>. In: <name name-style="western"><surname>Medellín</surname> <given-names>RA</given-names></name>, <name name-style="western"><surname>Equihua</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Chetkiewicz</surname> <given-names>C-LB</given-names> <suffix>Jr.</suffix></name> <name name-style="western"><surname>PGC</surname></name>, <name name-style="western"><surname>Rabinowitz</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Redford</surname> <given-names>KH</given-names></name>, <etal>et al</etal>., editors. <source>El jaguar en el nuevo milenio</source>. <publisher-loc>Mexico</publisher-loc>: <publisher-name>Wildlife Conservation Society</publisher-name>; <year>2002</year>. pp. <fpage>265</fpage>–<lpage>288</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref073"><label>73</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Davis</surname> <given-names>ML</given-names></name>, <name name-style="western"><surname>Kelly</surname> <given-names>MJ</given-names></name>, <name name-style="western"><surname>Stauffer</surname> <given-names>DF</given-names></name>. <article-title>Carnivore co-existence and habitat use in the mountain pine ridge forest reserve, Belize</article-title>. <source>Anim Conserv</source>. <year>2011</year>; <volume>14</volume>: <fpage>56</fpage>–<lpage>65</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1469-1795.2010.00389.x" xlink:type="simple">10.1111/j.1469-1795.2010.00389.x</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref074"><label>74</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Negrões</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Sarmento</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Cruz</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Eira</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Revilla</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Fonseca</surname> <given-names>C</given-names></name>, <etal>et al</etal>. <article-title>Use of camera-trapping to estimate puma density and influencing factors in central Brazil</article-title>. <source>J Wildl Manage</source>. <year>2010</year>; <volume>74</volume>: <fpage>1195</fpage>–<lpage>1203</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2193/2009-256" xlink:type="simple">10.2193/2009-256</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref075"><label>75</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Foster</surname> <given-names>VC</given-names></name>, <name name-style="western"><surname>Sarmento</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Sollmann</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Tôrres</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Jácomo</surname> <given-names>ATA</given-names></name>, <name name-style="western"><surname>Negrões</surname> <given-names>N</given-names></name>, <etal>et al</etal>. <article-title>Jaguar and puma activity patterns and predator-prey interactions in four brazilian biomes</article-title>. <source>Biotropica</source>. <year>2013</year>; <volume>45</volume>: <fpage>373</fpage>–<lpage>379</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref076"><label>76</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sergio</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Caro</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Brown</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Clucas</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Hunter</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Ketchum</surname> <given-names>J</given-names></name>, <etal>et al</etal>. <article-title>Top predators as conservation tools: Ecological rationale, assumptions, and efficacy</article-title>. <source>Annu Rev Ecol S</source>. <year>2008</year>; <volume>39</volume>: <fpage>1</fpage>–<lpage>19</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref077"><label>77</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Foster</surname> <given-names>RJ</given-names></name>, <name name-style="western"><surname>Harmsen</surname> <given-names>BJ</given-names></name>, <name name-style="western"><surname>Valdes</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Pomilla</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Doncaster</surname> <given-names>CP</given-names></name>. <article-title>Food habits of sympatric jaguars and pumas across a gradient of human disturbance</article-title>. <source>J Zool</source>. <year>2010</year>; <volume>280</volume>: <fpage>309</fpage>–<lpage>318</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1469-7998.2009.00663.x" xlink:type="simple">10.1111/j.1469-7998.2009.00663.x</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref078"><label>78</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Young</surname> <given-names>JK</given-names></name>, <name name-style="western"><surname>Olson</surname> <given-names>KA</given-names></name>, <name name-style="western"><surname>Reading</surname> <given-names>RP</given-names></name>, <name name-style="western"><surname>Amgalanbaatar</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Berger</surname> <given-names>J</given-names></name>. <article-title>Is wildlife going to the dogs? Impacts of feral and free-roaming dogs on wildlife populations</article-title>. <source>Bioscience</source>. <year>2011</year>; <volume>61</volume>: <fpage>125</fpage>–<lpage>132</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref079"><label>79</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Cassano</surname> <given-names>CR</given-names></name>, <name name-style="western"><surname>Barlow</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Pardini</surname> <given-names>R</given-names></name>. <article-title>Forest loss or management intensification? Identifying causes of mammal decline in cacao agroforests</article-title>. <source>Biol Conserv</source>. <year>2014</year>; <volume>169</volume>: <fpage>14</fpage>–<lpage>22</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biocon.2013.10.006" xlink:type="simple">10.1016/j.biocon.2013.10.006</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref080"><label>80</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Vanak</surname> <given-names>AT</given-names></name>, <name name-style="western"><surname>Gompper</surname> <given-names>ME</given-names></name>. <article-title>Dogs canis familiaris as carnivores: Their role and function in intraguild competition</article-title> <source>Mamm Rev</source>. <year>2009</year>; <volume>39</volume>: <fpage>265</fpage>–<lpage>283</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref081"><label>81</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Curi</surname> <given-names>NH</given-names></name>, <name name-style="western"><surname>Paschoal</surname> <given-names>AM</given-names></name>, <name name-style="western"><surname>Massara</surname> <given-names>RL</given-names></name>, <name name-style="western"><surname>Marcelino</surname> <given-names>AP</given-names></name>, <name name-style="western"><surname>Ribeiro</surname> <given-names>AA</given-names></name>, <name name-style="western"><surname>Passamani</surname> <given-names>M</given-names></name>, <etal>et al</etal>. <article-title>Factors associated with the seroprevalence of leishmaniasis in dogs living around atlantic forest fragments</article-title>. <source>PloS one</source>. <year>2014</year>; <volume>9</volume>: <fpage>e104003</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0104003" xlink:type="simple">10.1371/journal.pone.0104003</ext-link></comment> <object-id pub-id-type="pmid">25089629</object-id>.</mixed-citation></ref>
+<ref id="pone.0141333.ref082"><label>82</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Vanak</surname> <given-names>AT</given-names></name>, <name name-style="western"><surname>Gompper</surname> <given-names>ME</given-names></name>. <article-title>Interference competition at the landscape level: The effect of free-ranging dogs on a native mesocarnivore</article-title>. <source>J Appl Ecol</source>. <year>2010</year>; <volume>47</volume>: <fpage>1225</fpage>–<lpage>1232</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref083"><label>83</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Srbek-Araujo</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Chiarello</surname> <given-names>A</given-names></name>. <article-title>Domestic dogs in atlantic forest preserves of south-eastern Brazil: A camera-trapping study on patterns of entrance and site occupancy rates</article-title>. <source>Braz J Biol</source>. <year>2008</year>; <volume>68</volume>: <fpage>771</fpage>–<lpage>779</lpage>. <object-id pub-id-type="pmid">19197494</object-id></mixed-citation></ref>
+<ref id="pone.0141333.ref084"><label>84</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Espartosa</surname> <given-names>KD</given-names></name>, <name name-style="western"><surname>Pinotti</surname> <given-names>BT</given-names></name>, <name name-style="western"><surname>Pardini</surname> <given-names>R</given-names></name>. <article-title>Performance of camera trapping and track counts for surveying large mammals in rainforest remnants</article-title>. <source>Biodivers Conserv</source>. <year>2011</year>; <volume>20</volume>: <fpage>2815</fpage>–<lpage>2829</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref085"><label>85</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dillon</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Kelly</surname> <given-names>MJ</given-names></name>. <article-title>Ocelot Leopardus pardalis in Belize: The impact of trap spacing and distance moved on density estimates</article-title>. <source>Oryx</source>. <year>2007</year>; <volume>41</volume>: <fpage>469</fpage>–<lpage>477</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref086"><label>86</label><mixed-citation publication-type="other" xlink:type="simple">Cenibra. RPPN Fazenda Macedônia. 2014. Available: <ext-link ext-link-type="uri" xlink:href="http://www.cenibra.com.br/" xlink:type="simple">http://www.cenibra.com.br/</ext-link>.</mixed-citation></ref>
+<ref id="pone.0141333.ref087"><label>87</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Hanski</surname> <given-names>I</given-names></name>, <name name-style="western"><surname>Simberloff</surname> <given-names>D</given-names></name>. <chapter-title>The metapopulation approach</chapter-title>. In: <name name-style="western"><surname>Hanski</surname> <given-names>I</given-names></name>, <name name-style="western"><surname>Gilpin</surname> <given-names>M</given-names></name>, editors. <source>Metapopulation biology: Ecology, genetics and evolution</source>. <publisher-loc>San Diego</publisher-loc>: <publisher-name>Academic Press</publisher-name>; <year>1997</year>. pp. <fpage>5</fpage>–<lpage>26</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref088"><label>88</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Maffei</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Noss</surname> <given-names>AJ</given-names></name>, <name name-style="western"><surname>Cuéllar</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Rumiz</surname> <given-names>DI</given-names></name>. <article-title>Ocelot (<italic>Felis pardalis</italic>) population densities, activity, and ranging behaviour in the dry forests of eastern bolivia:Data from camera trapping</article-title>. <source>J Trop Ecol</source>. <year>2005</year>; <volume>21</volume>: <fpage>1</fpage>–<lpage>6</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref089"><label>89</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Konecny</surname> <given-names>MJ</given-names></name>. <article-title>Movement patterns and food habitats of four sympatric carnivore species in Belize, central america</article-title>. <source>Adv Neotrop Mammal</source>. <year>1989</year>; <fpage>243</fpage>–<lpage>264</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref090"><label>90</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Cullen</surname> <given-names>LJ</given-names></name>, <name name-style="western"><surname>Bodmer</surname> <given-names>ER</given-names></name>, <name name-style="western"><surname>Valladares-Padua</surname> <given-names>C</given-names></name>. <article-title>Ecological consequences of hunting in atlantic forest patches, Sao Paulo, Brazil</article-title>. <source>Oryx.</source> <year>2001</year>; <volume>35</volume>: <fpage>137</fpage>–<lpage>144</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1046/j.1365-3008.2001.00163.x" xlink:type="simple">10.1046/j.1365-3008.2001.00163.x</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref091"><label>91</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lyra-Jorge</surname> <given-names>MC</given-names></name>, <name name-style="western"><surname>Ciocheti</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Pivello</surname> <given-names>VR</given-names></name>. <article-title>Carnivore mammals in a fragmented landscape in northeast of São Paulo state, Brazil</article-title>. <source>Biodivers Conserv</source>. <year>2008</year>; <volume>17</volume>: <fpage>1573</fpage>–<lpage>1580</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref092"><label>92</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Haines</surname> <given-names>AM</given-names></name>, <name name-style="western"><surname>Tewes</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Laack</surname> <given-names>LL</given-names></name>, <name name-style="western"><surname>Horne</surname> <given-names>JS</given-names></name>, <name name-style="western"><surname>Young</surname> <given-names>JH</given-names></name>. <article-title>A habitat-based population viability analysis for ocelots (<italic>Leopardus pardalis</italic>) in the united states</article-title>. <source>Biol Conserv</source>. <year>2006</year>; <volume>132</volume>: <fpage>424</fpage>–<lpage>436</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref093"><label>93</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Haines</surname> <given-names>AM</given-names></name>, <name name-style="western"><surname>Tewes</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Laack</surname> <given-names>LL</given-names></name>, <name name-style="western"><surname>Grant</surname> <given-names>WE</given-names></name>, <name name-style="western"><surname>Young</surname> <given-names>J</given-names></name>. <article-title>Evaluating recovery strategies for an ocelot (<italic>Leopardus pardalis</italic>) population in the united states</article-title>. <source>Biol Conserv</source>. <year>2005</year>; <volume>126</volume>: <fpage>512</fpage>–<lpage>522</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref094"><label>94</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Janecka</surname> <given-names>JE</given-names></name>, <name name-style="western"><surname>Tewes</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Laack</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Caso</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Grassman</surname> <given-names>LI</given-names></name>, <name name-style="western"><surname>Honeycutt</surname> <given-names>RL</given-names></name>. <article-title>Loss of genetic diversity among ocelots in the united states during the 20th century linked to human induced population reductions</article-title>. <source>PloS one</source>. <year>2014</year>; <volume>9</volume>: <fpage>e89384</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0089384" xlink:type="simple">10.1371/journal.pone.0089384</ext-link></comment> <object-id pub-id-type="pmid">24586737</object-id>; PubMed Central PMCID: PMC3935880.</mixed-citation></ref>
+<ref id="pone.0141333.ref095"><label>95</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Janečka</surname> <given-names>JE</given-names></name>, <name name-style="western"><surname>Tewes</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Laack</surname> <given-names>LL</given-names></name>, <name name-style="western"><surname>Caso</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Grassman</surname> <given-names>LI</given-names> <suffix>Jr</suffix></name>, <name name-style="western"><surname>Haines</surname> <given-names>AM</given-names></name>, <etal>et al</etal>. <article-title>Reduced genetic diversity and isolation of remnant ocelot populations occupying a severely fragmented landscape in southern Texas</article-title>. <source>Anim Conserv</source>. <year>2011</year>; <volume>14</volume>: <fpage>608</fpage>–<lpage>619</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1469-1795.2011.00475.x" xlink:type="simple">10.1111/j.1469-1795.2011.00475.x</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref096"><label>96</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Janečka</surname> <given-names>JE</given-names></name>, <name name-style="western"><surname>Tewes</surname> <given-names>ME</given-names></name>, <name name-style="western"><surname>Laack</surname> <given-names>LL</given-names></name>, <name name-style="western"><surname>Grassman</surname> <given-names>LI</given-names></name>, <name name-style="western"><surname>Haines</surname> <given-names>AM</given-names></name>, <name name-style="western"><surname>Honeycutt</surname> <given-names>RL</given-names></name>. <article-title>Small effective population sizes of two remnant ocelot populations (<italic>Leopardus pardalis albescens</italic>) in the united states</article-title>. <source>Conserv Genet</source>. <year>2007</year>; <volume>9</volume>: <fpage>869</fpage>–<lpage>878</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10592-007-9412-1" xlink:type="simple">10.1007/s10592-007-9412-1</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0141333.ref097"><label>97</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Araujo</surname> <given-names>GR</given-names></name>, <name name-style="western"><surname>Paula</surname> <given-names>TAR</given-names></name>, <name name-style="western"><surname>Deco-Souza</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Garay</surname> <given-names>RM</given-names></name>, <name name-style="western"><surname>Bergo</surname> <given-names>LCF</given-names></name>, <name name-style="western"><surname>Silva</surname> <given-names>LC</given-names></name>, <etal>et al</etal>. <article-title>Criptorquidismo em jaguatirica de vida livre capturada no Parque Estadual do Rio Doce, Brasil</article-title>. <source>Arq Bras Med Vet Zootec</source>. <year>2013</year>; <volume>65</volume>: <fpage>1</fpage>–<lpage>5</lpage>.</mixed-citation></ref>
+<ref id="pone.0141333.ref098"><label>98</label><mixed-citation publication-type="other" xlink:type="simple">Paolino RM. Importância das areas de preservação permanente (APPs) ripárias para a mastofauna no nordeste do estado de São Paulo. M. Sc. Thesis, Universidade de São Paulo. 2015.</mixed-citation></ref>
+</ref-list>
+</back>
+</article>
