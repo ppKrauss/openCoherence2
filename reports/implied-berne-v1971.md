@@ -11,7 +11,7 @@ layout: page
 
 The main evidence to be quoted in this report is the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention). The tradition of its interpretation in worldwide, can be confirmed by the references.  The evidences subsides the inference of an [implied licence](https://en.wikipedia.org/wiki/Implied_license), that will be adopted in any cultural work that not express a [public copyright license](https://en.wikipedia.org/wiki/Public_copyright_license) in itself.
 
-Label  | Subject | Name and oficial URL 
+Label  | Subject | Name and URL 
 ---    | ---     | ---
 *Berne1971* | original Convention text | [Berne Convention for the Protection of Literary and Artistic Works](http://global.oup.com/booksites/content/9780198259466/15550001)
 
@@ -27,7 +27,7 @@ Summarizing:
 
 ### References
 
-Label  | Subject | Name and oficial URL 
+Label  | Subject | Name and URL 
 ---    | ---     | ---
 *WIPO2015*  | automatic protection  | [WIPO Guide on the Licensing of Copyright and Related Rights](http://www.wipo.int/edocs/pubdocs/en/copyright/897/wipo_pub_897.pdf)
 *Wiki1* |licensor rights | [Copyright, Exclusive rights](https://en.wikipedia.org/wiki/Copyright#Exclusive_rights)
