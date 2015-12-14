@@ -37,9 +37,17 @@ Intepretation:  *exclusive right of copy*.
 
 Intepretation:  *fair use of copy-fragmemts as quotations*.
 
-** Article 10.3** "...  mention shall be made of the source, and of the name of the author if it appears thereon". And **10<sup>bis</sup>** "... Nevertheless, the source must always be clearly indicated..."
+**Article 10.3** "...  mention shall be made of the source, and of the name of the author if it appears thereon". And **10<sup>bis</sup>** "... Nevertheless, the source must always be clearly indicated..."
 
 Intepretation:   *attribution requirement*
+
+**Article 11** "Authors of dramatic, dramatico-musical and musical works shall enjoy the exclusive right of authorising (...) the public performance of their works (...) any communication to the public of the performance of their works".  And **11<sup>bis</sup>** "Authors of literary and artistic works shall enjoy the exclusive right of authorising (...)  the broadcasting of their works  (...) any communication to the public by wire or by rebroadcasting of the broadcast of the work ..."
+
+Intepretation:   *exclusive right to display*
+
+**Article 12** "Authors of literary or artistic works shall enjoy the exclusive right of authorising adaptations, arrangements and other alterations of their works".
+
+Intepretation:   *exclusive right to create derivative works*
 
 ...
 
