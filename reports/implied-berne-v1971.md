@@ -17,23 +17,27 @@ Label  | Subject | Name and URL
 
 ###Quotations and interpretations of the evidences:
 
-**1.** At Article 6,  "...  the author shall have the right to claim authorship of the work and to object to any distortion, mutilation or other modification of, or other derogatory action in relation to, the said work, which would be prejudicial to his honour or reputation..."
+**Article 3.1 and 3.4** "... or simultaneously ...", "... A work shall be considered as having been published simultaneously (...) if it has been published in two or more countries within thirty days of its first publication"
+
+Intepretation:  *simultaneous publishing*.
+
+**Article 6**,  "...  the author shall have the right to claim authorship of the work and to object to any distortion, mutilation or other modification of, or other derogatory action in relation to, the said work, which would be prejudicial to his honour or reputation..."
 
 Intepretation:  *right to claim authorship*.
 
-**2.** At Article 7.1,  "(...)  The term of protection granted by this Convention shall be the life of the author and fifty years after his death ..."
+**Article 7.1**,  "(...)  The term of protection granted by this Convention shall be the life of the author and fifty years after his death ..."
 
 Intepretation:  *50 years of monopoly time*.
 
-**3.** At Article 9.1,  "... exclusive right of authorising the reproduction of these works ...".
+**Article 9.1**,  "... exclusive right of authorising the reproduction of these works ...".
 
 Intepretation:  *exclusive right of copy*.
 
-**4.** At Article 10.1,  "(...) It shall be permissible to make quotations from a work which has already been lawfully made available to the public, provided that their making is compatible with fair practice, and their extent does not exceed that justified by the purpose ...". 
+**Article 10.1**  "(...) It shall be permissible to make quotations from a work which has already been lawfully made available to the public, provided that their making is compatible with fair practice, and their extent does not exceed that justified by the purpose ...". 
 
-Intepretation:  *fair use in quotations*, and *attribution queririment*
+Intepretation:  *fair use of copy-fragmemts as quotations*.
 
-**5.** At 10.3 "...  mention shall be made of the source, and of the name of the author if it appears thereon". And 10<sup>bis</sup> "... Nevertheless, the source must always be clearly indicated..."
+** Article 10.3** "...  mention shall be made of the source, and of the name of the author if it appears thereon". And **10<sup>bis</sup>** "... Nevertheless, the source must always be clearly indicated..."
 
 Intepretation:   *attribution requirement*
 
@@ -78,7 +82,8 @@ Inferred "standard clauses" that build this *implied license* as licensee rights
 
 Label  | Subject | Licensee right
 ---    | ---     | ---
-*Fair* | Fair use | In special conditions, for personal or educational use, not need to ask, and can do a local copy.
+*Fair* | Fair use | A fragment or local copy in special conditions, as little quotations, and some personal or educational uses.
+*Sync* | Simultaneous publishing | Reclaim the  protection and status of simultaneously published when "within 30 days".
 *Wait* | Wait for CC0 | Reclaim the monopoly time-out, 50 years after works's first publishing or author's death.
 
 ### Endorsed the conclusion
