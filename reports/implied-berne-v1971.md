@@ -71,7 +71,7 @@ Inferred "standard clauses" that build this *implied license* as licensee obliga
 Label  | Subject | The licensee must to 
 ---    | ---     | ---
 *Ask*  | Permission | check or ask any permission for licensor.
-*BY*   | Attribution | cite the licensor, ex. when permitted to use a fragment (ex. long quotation)
+*BY*   | Attribution | cite the licensor, ex. in a copy-of-fragment for quotation use.
 *NC*   | No Comercial use | can't do any commercial use of the work.
 *ND*   | No Derivatives   | can't do derivative works from the work.
 *SA*   | Share-alike      | when permited, the copies must preserve the same licence, but in a explicit way.
